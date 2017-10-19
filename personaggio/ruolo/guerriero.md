@@ -8,7 +8,7 @@ _“Se sanguina, posso ucciderlo”_
 
 * **Caratteristiche secondaria:** _AGI_
 
-* **Addestramento:** Tutte le Armi ad esclusione del Colpo senz’armi e in tutte le Armature e gli Scudi
+* **Addestramento:** Tutte le _Armi_ ad esclusione del _Colpo senz’armi_ e in tutte le _Armature_ e gli _Scudi_
 
 * **Abilità di Ruolo:**
 
