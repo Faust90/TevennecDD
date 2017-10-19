@@ -56,12 +56,18 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
     * Tutti i _Danni_ di _Luce_ inflitti dal _Personaggio_ vengono tirati due volte e vengono presi i risultati migliori.
 
     * Il punteggio di _VOL_ del _Personaggio _è permanentemente aumentato di 1 punto.
-	  
+
   * **Difetti:**
 
     * Uno _Slot Energia_ è permanentemente _Occupato_.
 
-* Mercenario \(Guerriero\): Si è un tipico esempio di un Guerriero. Il punteggio di AGI è permanentemente aumentato di 1 punto. Si inizia la partita con una Spada Corta e un’Armatura di Cuoio.
+* **Mercenario \(Guerriero\):** Si è un tipico esempio di un _Guerriero_. 
+
+  * **Benefici:**
+
+    * Il punteggio di _AGI_ del _Personaggio_ è permanentemente aumentato di 1 punto. 
+
+    * Il _Personaggio_ inizia la partita con una _Spada Corta_ e un’_Armatura di Cuoio_.
 
 * Ospitaliere: Si ha un addestramento volto a curare sul campo le proprie ferite. Si impara Medico, e lo si può lanciare dopo aver subito almeno un colpo dall’ultimo lancio, senza consumare Slot Energia se non ci sono nemici visibili o in battaglia \(Leggere il capitolo MAGIA\). Lo stress fisico a cui si è sottoposti quotidianamente durante lo svolgimento delle proprie mansioni rende più difficile recuperare le energie spirituali, quindi non si può recuperare più di uno Slot Energia.
 
