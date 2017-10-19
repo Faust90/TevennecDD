@@ -87,9 +87,16 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
   
   * **Difetti:**
 
-    * Non si possono usare Anelli. Un voto di povertà per dimostrare la propria fede è fondamentale per distinguersi dai comuni discepoli
+    * Non si possono usare _Anelli_. Un voto di povertà per dimostrare la propria fede è fondamentale per distinguersi dai comuni discepoli
 
-* **Templare \(Incantatore\):** Si fa parte dell’ala più militarizzata della Chiesa di Dio, e l’addestramento ha portato ad una maggiore resistenza fisica e una preferenza per le armature pesanti. Si ha Addestramento nelle Armature Pesanti, Armi contundenti a due mani e si aggiungono 3 punti ai Punti Ferita Massimi ed ai Punti Ferita Attuali. Si aumenta permanentemente il punteggio di ROB di 1 punto. Tuttavia Il punteggio di MEN è permanentemente diminuito di 1, poiché l’addestramento marziale ha portato via tempo allo studio delle sacre scritture.
+* **Templare \(Incantatore\):** Si fa parte dell’ala più militarizzata della Chiesa di Dio, e l’addestramento ha portato ad una maggiore resistenza fisica e una preferenza per le armature pesanti. 
 
-
-
+  * **Benefici:**
+  
+    * Il _Personaggio_ ha Addestramento nelle _Armature Pesanti_, _Armi Contundenti_ a due mani
+	* Il _Personaggio_ ha 3 Punti Ferita aggiuntivi.     
+    * Il punteggio di _ROB_ del _Personaggio_ è permanentemente aumentato di 1 punto.
+	
+  * **Difetti:**
+ 
+    * Il punteggio di _MEN_ del _Personaggio_ è permanentemente diminuito di 1 punto  
