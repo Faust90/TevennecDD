@@ -12,7 +12,7 @@ I _Ruoli_ servono a improntare il _Personaggio_ verso un determinato stile di gi
 
 * **Addestramento:** Le _Armi_ e le _Armature_ che il _Personaggio_ sarà in grado di usare \(aggiungendo il bonus di _Addestramento_ dove applicabile, vedi capitolo Attacco\).
 
-I _Ruoli \_che un_ Giocatore_ può scegliere per il proprio \_Personaggio \_sono due:_ Guerriero_ e \_Incantatore_.
+I _Ruoli_ che un _Giocatore_ può scegliere per il proprio _Personaggio_ sono due: _Guerriero_ e _Incantatore_.
 
 #### 
 
