@@ -2,7 +2,7 @@
 
 Il _Personaggio_ è l’entità principale del gioco. È l’unica entità controllabile dal _Giocatore_, ed è l'entità che di fatto caratterizza tutta l'esperienza di gioco. La morte del _Personaggio_ infatti farà terminare la partita, costringendo il giocatore a ripartire dall’ultimo salvataggio effettuato.
 
-Ogni _Personaggio_ può essere costruito in modo personalizzato man mano che la partita procede. Si ne possono così creare molte varianti, in modo da diversificare l’esperienza di gioco. È importante notare che alcune scelte sulla costruzione di un \_Personaggio\_ saranno più efficaci di altre, in particolar modo un Personaggio che avrà effettuato determinate scelte potrebbe avere una maggiore difficoltà ad avanzare nel gioco. Ogni possibile opzione per il proprio Personaggio è indicata e dettagliata nei paragrafi successivi.
+Ogni _Personaggio_ può essere costruito in modo personalizzato man mano che la partita procede. Si ne possono così creare molte varianti, in modo da diversificare l’esperienza di gioco. È importante notare che alcune scelte sulla costruzione di un _Personaggio_ saranno più efficaci di altre, in particolar modo un Personaggio che avrà effettuato determinate scelte potrebbe avere una maggiore difficoltà ad avanzare nel gioco. Ogni possibile opzione per il proprio Personaggio è indicata e dettagliata nei paragrafi successivi.
 
 CARATTERISTICHE
 
@@ -10,43 +10,43 @@ Le Caratteristiche servono a indicare la prestanza fisica e mentale del Personag
 
 * Robustezza \(ROB\): Indica la resistenza e la forza fisica del Personaggio.
 
-1. Il doppio del suo valore si aggiunge ai Punti Ferita Massimi e Punti Ferita Attuali.
+* Il doppio del suo valore si aggiunge ai Punti Ferita Massimi e Punti Ferita Attuali.
 
-2. La metà del suo valore arrotondata per difetto è aggiunta ai Danni inflitti
+* La metà del suo valore arrotondata per difetto è aggiunta ai Danni inflitti
 
-3. Il suo valore si aggiunge ai Tiri salvezza contro effetti di Malattia, Mutilazione, Sanguinamento e Veleno.
+* Il suo valore si aggiunge ai Tiri salvezza contro effetti di Malattia, Mutilazione, Sanguinamento e Veleno.
 
-4. Il suo valore si aggiunge ai tiri su Concentrazione \(Vedere il capitolo MAGIA\)
+* Il suo valore si aggiunge ai tiri su Concentrazione \(Vedere il capitolo MAGIA\)
 
 * Agilità \(AGI\): Indica l’agilità e la destrezza del Personaggio.
 
-1. La metà del suo valore arrotondata per difetto si aggiunge all’ATK
+* La metà del suo valore arrotondata per difetto si aggiunge all’ATK
 
-2. Il suo valore si aggiunge alla DEF
+* Il suo valore si aggiunge alla DEF
 
-3. Il suo valore si aggiunge al Blocco
+* Il suo valore si aggiunge al Blocco
 
-4. Il suo valore si aggiunge all’Iniziativa. Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento
+* Il suo valore si aggiunge all’Iniziativa. Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento
 
 * Mente \(MEN\): Indica la saggezza e l’intelligenza del Personaggio.
 
-1. Il suo valore indica il numero di slot per Incantesimi disponibili
+* Il suo valore indica il numero di slot per Incantesimi disponibili
 
-2. La metà del suo valore arrotondata per difetto determina il livello massimo di incantesimi che si può imparare
+* La metà del suo valore arrotondata per difetto determina il livello massimo di incantesimi che si può imparare
 
-3. Il suo valore migliora la velocità di lancio degli Incantesimi. \(Vedere il capitolo MAGIA\)
+* Il suo valore migliora la velocità di lancio degli Incantesimi. \(Vedere il capitolo MAGIA\)
 
-4. Il suo valore migliora la possibilità di effettuare un Colpo Critico \(Vedere il capitolo ATTACCO\)
+* Il suo valore migliora la possibilità di effettuare un Colpo Critico \(Vedere il capitolo ATTACCO\)
 
 * Volontà \(VOL\): Indica l’incisività della fede del Personaggio e la sua forza di volontà.
 
-1. Il suo valore viene aggiunto ai danni inflitti dagli Incantesimi
+* Il suo valore viene aggiunto ai danni inflitti dagli Incantesimi
 
-2. Il suo valore viene aggiunto alla Classe Difficoltà degli Incantesimi
+* Il suo valore viene aggiunto alla Classe Difficoltà degli Incantesimi
 
-3. Il suo valore viene aggiunto ai Tiri Salvezza contro effetti di Maledizione, Confusione, Spavento, Stordimento.
+* Il suo valore viene aggiunto ai Tiri Salvezza contro effetti di Maledizione, Confusione, Spavento, Stordimento.
 
-4. La metà del suo valore arrotondata per difetto determina il numero di Slot Energia recuperati ogni 3 secondi \(Minimo 1\).
+* La metà del suo valore arrotondata per difetto determina il numero di Slot Energia recuperati ogni 3 secondi \(Minimo 1\).
 
 Le Caratteristiche non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà di ferro\). Se una caratteristica ha punteggio 0, sarà considerata al livello della media della popolazione.
 
