@@ -34,7 +34,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Difetti:**
 
-    * Il _Personaggio_ è refrattario all’energia divina poiché Dio ripudia la Tenebra, e quando lancia un Incantesimo subisce un danno pari al doppio del livello dell’Incantesimo lanciato. Inoltre si ha un’aria inquietante: si acquistano gli oggetti ad un prezzo del 20% superiore al normale e si vendono ad un prezzo del 20% inferiore.
+    * Il _Personaggio_ è refrattario all’energia divina poiché Dio ripudia la Tenebra: e quando lancia un _Miracolo _subisce un danno pari al doppio del livello dell’Incantesimo lanciato. Inoltre si ha un’aria inquietante: si acquistano gli oggetti ad un prezzo del 20% superiore al normale e si vendono ad un prezzo del 20% inferiore.
 
 * Duellante \(Guerriero\): Si è addestrati a combattere con destrezza inusuale. Si possono effettuare Blocchi senza usare scudi. Il Blocco è pari a 5 più il doppio del suo punteggio di AGI \(Leggere il capitolo DIFESA per il funzionamento del Blocco\). Si ha inoltre un bonus di +2 a tutti i danni inflitti utilizzando armi. Il punteggio di ROB è permanentemente diminuito di 1 punto e si perde l’Addestramento nelle Armature Pesanti o Armi a due mani, poiché questo tipo di combattimento richiede una corporatura esile ed un equipaggiamento leggero.
 
