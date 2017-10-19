@@ -1,10 +1,10 @@
-INCANTATORE
+#### Incantatore
 
-“Ammira il potere di Dio”
+_“Ammira il potere di Dio”_
 
-* Caratteristica primaria: MEN
+* **Caratteristica primaria:** _MEN_
 
-* Caratteristiche secondaria: VOL
+* **Caratteristiche secondaria:** _VOL_
 
 * Abilità di Ruolo:
 

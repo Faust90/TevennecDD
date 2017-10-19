@@ -1,4 +1,4 @@
-#### GUERRIERO
+#### Guerriero
 
 ---
 
@@ -14,7 +14,7 @@ _“Se sanguina, posso ucciderlo”_
 
   | Livello | Abilità |
   | :--- | :--- |
-  | 1 | Resistente |
+  | 1 | Incremento, Resistente |
   | 2 | Letale |
   | 4 | Maestria |
   | 6 | Stoico |
