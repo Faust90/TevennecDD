@@ -6,7 +6,7 @@ I _Punti Ferita_ forniscono un’indicazione numerica sulla resistenza del _Pers
 
 I _Punti Ferita_ al primo livello si calcolano con la seguente formula
 
-PF = 8 + \(ROB x 2\)
+$$8 + \(ROB x 2\)$$
 
 Si ottengono _Punti Ferita_ aggiuntivi salendo di livello. Equipaggiare alcuni _Oggetti_ magici aumenta il numero di punti ferita.
 
