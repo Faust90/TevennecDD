@@ -6,7 +6,7 @@ _“Ammira il potere di Dio”_
 
 * **Caratteristiche secondaria:** _VOL_
 
-* Abilità di Ruolo:
+* **Addestramento: **Armi Contundenti ad una mano, ad esclusione del Colpo senz’armi, Armature leggere e Scudi, Bastoni 
 
 * **Abilità di Ruolo:**
 
@@ -23,7 +23,7 @@ _“Ammira il potere di Dio”_
   | 9 | Incremento |
   | 10 | Profeta |
 
-L’Incantatore è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri personaggi non potranno mai imparare. Ha Addestramento nelle Armature leggere e negli Scudi, nei Bastoni e nelle Armi Contundenti ad una mano, ad esclusione del Colpo senz’armi.
+L’_Incantatore_ è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri personaggi non potranno mai imparare.
 
 * Al 1° _Livello_ si possono imparare _Miracoli_ I livello, ignorando i normali prerequisiti per punteggio di MEN
 
@@ -37,5 +37,5 @@ L’Incantatore è un utilizzatore di magia esperto, ed impara a lanciare incant
 
 * Al 10° _Livello_ se si hanno meno di 6 _Slot Energia_ se ne ottiene uno extra
 
-Sono perlopiù sacerdoti di Dio, che imparano ad avere una connessione alla divinità in modo da poter sfruttare il suo potere per lanciare incantesimi. Nella battaglia dell'umanità contro le creature dell'Ombra, è necessario che agiscano in modo celere e senza farsi impressionare dalle situazioni critiche. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli incantatori sono potenti utilizzatori di incantesimi e combattenti di discreta abilità con i giusti potenziamenti.
+Sono perlopiù sacerdoti di Dio, che imparano ad avere una connessione alla divinità in modo da poter sfruttare il suo potere per lanciare incantesimi. Nella battaglia dell'umanità contro le creature delle tenebre, è necessario che agiscano in modo celere e senza farsi impressionare dalle situazioni critiche. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli incantatori sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
 
