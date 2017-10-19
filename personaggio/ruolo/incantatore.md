@@ -1,5 +1,7 @@
 #### Incantatore
 
+---
+
 _“Ammira il potere di Dio”_
 
 * **Caratteristica primaria:** _MEN_
@@ -37,5 +39,5 @@ L’_Incantatore_ è un utilizzatore di magia esperto, ed impara a lanciare inca
 
 * Al 10° _Livello_ se si hanno meno di 6 _Slot Energia_ se ne ottiene uno extra
 
-Sono perlopiù sacerdoti di Dio, che imparano ad avere una connessione alla divinità in modo da poter sfruttare il suo potere per lanciare incantesimi. Nella battaglia dell'umanità contro le creature delle tenebre, è necessario che agiscano in modo celere e senza farsi impressionare dalle situazioni critiche. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli incantatori sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
+Sono perlopiù sacerdoti di Dio, che imparano a meditare e ad avere una maggiore connessione all' energia di Luce, in modo da poterla sfruttare per compiere _Miracoli_. Nella battaglia dell'umanità contro le creature delle tenebre, il loro compito è quello di supportare gli alleati e punire i nemici utilizzando la più potente magia. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli _Incantatori_ sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
 
