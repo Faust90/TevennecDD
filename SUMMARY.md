@@ -5,4 +5,6 @@
 * [Ambientazione](ambientazione.md)
 * [Trama](trama.md)
 * [Personaggio](personaggio.md)
+  * [Livelli e Punti Esperienza](personaggio/livelli.md)
+  * [Caratteristiche](personaggio/caratteristiche.md)
 

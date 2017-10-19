@@ -2,53 +2,7 @@
 
 Il _Personaggio_ è l’entità principale del gioco. È l’unica entità controllabile dal _Giocatore_, ed è l'entità che di fatto caratterizza tutta l'esperienza di gioco. La morte del _Personaggio_ infatti farà terminare la partita, costringendo il giocatore a ripartire dall’ultimo salvataggio effettuato.
 
-Ogni _Personaggio_ può essere costruito in modo personalizzato man mano che la partita procede. Si ne possono così creare molte varianti, in modo da diversificare l’esperienza di gioco. È importante notare che alcune scelte sulla costruzione di un _Personaggio_ saranno più efficaci di altre, in particolar modo un Personaggio che avrà effettuato determinate scelte potrebbe avere una maggiore difficoltà ad avanzare nel gioco. Ogni possibile opzione per il proprio Personaggio è indicata e dettagliata nei paragrafi successivi.
-
-CARATTERISTICHE
-
-Le Caratteristiche servono a indicare la prestanza fisica e mentale del Personaggio. Al 1° livello e quando si raggiunge il 3°, 5°, 7° e 9° livello del Personaggio, il giocatore avrà a disposizione un Incremento, che può utilizzare per aumentare di 1 il punteggio di una qualunque caratteristica. È possibile aumentare una Caratteristica equipaggiando oggetti magici che forniscono un bonus a quella Caratteristica. Ci sono due Caratteristiche fisiche e due mentali.
-
-* Robustezza \(ROB\): Indica la resistenza e la forza fisica del Personaggio.
-
-* Il doppio del suo valore si aggiunge ai Punti Ferita Massimi e Punti Ferita Attuali.
-
-* La metà del suo valore arrotondata per difetto è aggiunta ai Danni inflitti
-
-* Il suo valore si aggiunge ai Tiri salvezza contro effetti di Malattia, Mutilazione, Sanguinamento e Veleno.
-
-* Il suo valore si aggiunge ai tiri su Concentrazione \(Vedere il capitolo MAGIA\)
-
-* Agilità \(AGI\): Indica l’agilità e la destrezza del Personaggio.
-
-* La metà del suo valore arrotondata per difetto si aggiunge all’ATK
-
-* Il suo valore si aggiunge alla DEF
-
-* Il suo valore si aggiunge al Blocco
-
-* Il suo valore si aggiunge all’Iniziativa. Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento
-
-* Mente \(MEN\): Indica la saggezza e l’intelligenza del Personaggio.
-
-* Il suo valore indica il numero di slot per Incantesimi disponibili
-
-* La metà del suo valore arrotondata per difetto determina il livello massimo di incantesimi che si può imparare
-
-* Il suo valore migliora la velocità di lancio degli Incantesimi. \(Vedere il capitolo MAGIA\)
-
-* Il suo valore migliora la possibilità di effettuare un Colpo Critico \(Vedere il capitolo ATTACCO\)
-
-* Volontà \(VOL\): Indica l’incisività della fede del Personaggio e la sua forza di volontà.
-
-* Il suo valore viene aggiunto ai danni inflitti dagli Incantesimi
-
-* Il suo valore viene aggiunto alla Classe Difficoltà degli Incantesimi
-
-* Il suo valore viene aggiunto ai Tiri Salvezza contro effetti di Maledizione, Confusione, Spavento, Stordimento.
-
-* La metà del suo valore arrotondata per difetto determina il numero di Slot Energia recuperati ogni 3 secondi \(Minimo 1\).
-
-Le Caratteristiche non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà di ferro\). Se una caratteristica ha punteggio 0, sarà considerata al livello della media della popolazione.
+Ogni _Personaggio_ può essere costruito in modo personalizzato man mano che la partita procede. Si ne possono così creare molte varianti, in modo da diversificare l’esperienza di gioco. È importante notare che alcune scelte sulla costruzione di un _Personaggio_ saranno più efficaci di altre: un _Giocatore_ potrebbe dunque avere una maggiore difficoltà ad avanzare nel gioco. Ogni possibile opzione per il proprio _Personaggio_ è indicata e dettagliata nei sotto-capitoli successivi.
 
 PUNTI FERITA
 
@@ -60,33 +14,7 @@ PF = 8 + \(ROB x 2\)
 
 Si ottengono Punti Ferita aggiuntivi salendo di livello. Equipaggiare alcuni Oggetti magici aumenta il numero di punti ferita.
 
-PUNTI ESPERIENZA E LIVELLI
 
-La potenza di un Personaggio aumenta con il crescere del livello e dell’esperienza. Tutti i personaggi partono dal primo livello. Quando completa una missione o uccide un nemico, il Personaggio guadagnerà Punti Esperienza. Quando avrà raggiunto un certo quantitativo di Punti Esperienza, detto Traguardo, il Personaggio passerà al livello successivo, e i Punti Esperienza guadagnati finora verranno azzerati.
-
-Ogni volta che si otterrà un livello, il Personaggio ottiene 1d6 Punti Ferita che vengono aggiunti ai Punti Ferita Attuali e ai Punti Ferita Massimi. Il Personaggio può quindi continuare a guadagnare Punti Esperienza avanzando nel gioco fino a che raggiungerà il decimo livello. A quel punto non sarà più possibile per lui aumentare ulteriormente di livello, poiché avrà raggiunto il picco delle capacità umane.
-
-Livello    Traguardo
-
-1    2000
-
-2    4000
-
-3    6000
-
-4    8000
-
-5    10000
-
-6    12000
-
-7    14000
-
-8    16000
-
-9    18000
-
-10    -
 
 RUOLI
 
