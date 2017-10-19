@@ -16,7 +16,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Benefici: **
 
-    * Il _Personaggio_ ottiene una percentuale pari a  $$5+(MEN*2)$$ La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli _Oggetti_ venduti.
+    * Il _Personaggio_ ottiene una percentuale pari a  $$5+(MEN*2)$$. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli _Oggetti_ venduti.
 
     * Il _Personaggio_ ha accesso al Mercato nero.
 
@@ -45,10 +45,11 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
     * Il _Personaggio_ ha un bonus di +2 a tutti i danni inflitti utilizzando armi. 
 
   * **Difetti:**
+
     * Il punteggio di _ROB_ del _Personaggio_ è permanentemente diminuito di 1 punto 
     * Il _Personaggio_ perde l’Addestramento nelle _Armature Pesanti_ e nelle _Armi_ a due mani, poiché questo tipo di combattimento richiede una corporatura esile ed un equipaggiamento leggero.
 
-* **Luminoso \(Incantatore\):** L’_Incantatore_ conserva una parte della propria energia e la utilizza esclusivamente per rendere più potenti le manifestazioni della Sua Luce. 
+* **Luminoso \(Incantatore\):** L’_Incantatore_ conserva una parte della propria energia e la utilizza esclusivamente per rendere più potenti le manifestazioni della Sua Luce.
 
   * **Benefici:**
 
