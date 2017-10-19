@@ -25,7 +25,7 @@ Il Guerriero ha abilità che migliorano la sua resistenza e la sua capacità di 
 
 * Al 1° livello l’abilità _Resistente_ gli fa ottenere un numero di Punti Ferita Massimi e Punti Ferita attuali bonus pari a 3. I Guerrieri sono in grado di resistere al dolore e alle ferite meglio di chiunque altro.
 
-* Al 2° livello la sua abilità _Letale_ gli consente di avere un bonus pari a +3 ai danni inflitti con tutte le armi in cui ha Addestramento. I _Guerrieri _sono esperti combattenti, e usano le armi sempre al massimo del loro potenziale offensivo.
+* Al 2° livello la sua abilità _Letale_ gli consente di avere un bonus pari a +3 ai danni inflitti con tutte le armi in cui ha Addestramento. I _Guerrieri_ sono esperti combattenti, e usano le armi sempre al massimo del loro potenziale offensivo.
 
 * Al 4° livello ottiene l’abilità _Maestria_. Quando effettua con successo un Colpo con un’arma in cui ha Addestramento, il Guerriero potrà infiggere effetti aggiuntivi, indicati per ogni arma nella colonna Maestria \(vedi capitolo OGGETTI\). L’abilità dei Guerrieri gli permette di infliggere ai loro nemici condizioni debilitanti oltre al mero danno fisico.
 
