@@ -8,17 +8,20 @@ _“Ammira il potere di Dio”_
 
 * Abilità di Ruolo:
 
-•    Incantatore I \(Liv. 1\)
+* **Abilità di Ruolo:**
 
-•    Incantatore II \(Liv. 2\)
-
-•    Incantatore III \(Liv. 4\)
-
-•    Incantatore IV \(Liv. 6\)
-
-•    Incantatore V \(Liv. 8\)
-
-•    Profeta \(Liv. 10\)
+  | Livello | Abilità |
+  | :--- | :--- |
+  | 1 | Incremento, Incantatore I |
+  | 2 | Incantatore II |
+  | 3 | Incremento |
+  | 4 | Incantatore III |
+  | 5 | Incremento |
+  | 6 | Incantatore IV |
+  | 7 | Incremento |
+  | 8 | Incantatore V |
+  | 9 | Incremento |
+  | 10 | Profeta |
 
 L’Incantatore è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri personaggi non potranno mai imparare. Ha Addestramento nelle Armature leggere e negli Scudi, nei Bastoni e nelle Armi Contundenti ad una mano, ad esclusione del Colpo senz’armi.
 

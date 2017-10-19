@@ -15,7 +15,6 @@ _“Se sanguina, posso ucciderlo”_
   | Livello | Abilità |
   | :--- | :--- |
   | 1 | Incremento, Resistente |
-  | 3 | Incremento |
   | 2 | Letale |
   | 3 | Incremento |
   | 4 | Maestria |
