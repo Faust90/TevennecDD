@@ -4,9 +4,11 @@
 
 _“Se sanguina, posso ucciderlo”_
 
-* **Caratteristica primaria:** ROB
+* **Caratteristica primaria:** _ROB_
 
-* **Caratteristiche secondaria:** AGI
+* **Caratteristiche secondaria:** _AGI_
+
+* **Addestramento:** Tutte le armi ad esclusione del Colpo senz’armi e in tutte le armature
 
 * **Abilità di Ruolo:**
 
@@ -19,9 +21,7 @@ _“Se sanguina, posso ucciderlo”_
   | 8 | Preciso |
   | 10 | Campione |
 
-
-
-Il Guerriero ha molti punti ferita, ed ha Addestramento in tutte le armi ad esclusione del Colpo senz’armi e in tutte le armature. Le sue abilità di classe migliorano la sua resistenza e la sua capacità di combattere:
+Il Guerriero ha molti punti ferita, ed ha Addestramento in . Le sue abilità di classe migliorano la sua resistenza e la sua capacità di combattere:
 
 * Al primo livello l’abilità Resistente gli fa ottenere un numero di Punti Ferita Massimi e Punti Ferita attuali bonus pari a 3. I Guerrieri sono in grado di resistere al dolore e alle ferite meglio di chiunque altro.
 
