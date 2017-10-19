@@ -1,3 +1,4 @@
-# My Awesome Book
+## Tevennec Design Document
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Questo documento elenca tutti gli aspetti creativi che definiscono il gioco di ruolo d'azione Tevennec.
+
