@@ -8,9 +8,9 @@ Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Perso
 
   * La metà del suo valore arrotondata per difetto è aggiunta ai Danni inflitti
 
-  * Il suo valore si aggiunge ai _Tiri Salvezza \_contro effetti di_ Malattia_, \_Mutilazione_, _Sanguinamento_ e _Veleno_.
+  * Il suo valore si aggiunge ai _Tiri Salvezza_ contro effetti di _ Malattia_, _Mutilazione_, _Sanguinamento_ e _Veleno_.
 
-  * Il suo valore si aggiunge ai tiri su _Concentrazione _\(Vedere il capitolo Magia\)
+  * Il suo valore si aggiunge ai tiri su _Concentrazione_ \(Vedere il capitolo Magia\)
 
 * **Agilità \(AGI\):** Indica l’agilità e la destrezza del _Personaggio_.
 
@@ -32,7 +32,7 @@ Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Perso
 
   * Il suo valore migliora la possibilità di effettuare un Colpo Critico \(Vedere il capitolo ATTACCO\)
 
-* **Volontà \(VOL\):** Indica l’incisività della fede del \_Personaggio\_ e la sua forza di volontà.
+* **Volontà \(VOL\):** Indica l’incisività della fede del _Personaggio_ e la sua forza di volontà.
 
   * Il suo valore viene aggiunto ai danni inflitti dagli _Incantesimi_
 
