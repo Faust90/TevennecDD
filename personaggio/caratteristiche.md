@@ -1,6 +1,6 @@
 ### CARATTERISTICHE
 
-Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Personaggio_. Al 1° _Livello_ e quando si raggiunge il 3°, 5°, 7° e 9° _Livello_ del _Personaggio_, il giocatore avrà a disposizione un _Incremento_, che può utilizzare per aumentare di 1 il punteggio di una qualunque caratteristica. È possibile aumentare una Caratteristica equipaggiando oggetti magici che forniscono un bonus a quella _Caratteristica_. Ci sono due _Caratteristiche_ fisiche e due mentali.
+Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Personaggio_. Al 1° _Livello_ e quando si raggiunge il 3°, 5°, 7° e 9° _Livello_ del _Personaggio_, il _Giocatore_ avrà a disposizione un _Incremento_, che può utilizzare per aumentare di 1 il punteggio di una qualunque _Caratteristica_. È possibile aumentare una Caratteristica equipaggiando oggetti magici che forniscono un bonus a quella _Caratteristica_. Ci sono due _Caratteristiche_ fisiche e due mentali.
 
 * **Robustezza \(ROB\): **Indica la resistenza e la forza fisica del _Personaggio_.
 
