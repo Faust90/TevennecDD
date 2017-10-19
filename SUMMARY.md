@@ -8,4 +8,5 @@
   * [Livelli e Punti Esperienza](personaggio/livelli.md)
   * [Caratteristiche](personaggio/caratteristiche.md)
   * [Punti Ferita](personaggio/punti-ferita.md)
+  * [Ruolo](personaggio/ruolo.md)
 
