@@ -15,10 +15,15 @@ _“Se sanguina, posso ucciderlo”_
   | Livello | Abilità |
   | :--- | :--- |
   | 1 | Incremento, Resistente |
+  | 3 | Incremento |
   | 2 | Letale |
+  | 3 | Incremento |
   | 4 | Maestria |
+  | 5 | Incremento |
   | 6 | Stoico |
+  | 7 | Incremento |
   | 8 | Preciso |
+  | 9 | Incremento |
   | 10 | Campione |
 
 Il Guerriero ha abilità che migliorano la sua resistenza e la sua capacità di combattere:
