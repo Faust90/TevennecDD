@@ -6,7 +6,7 @@ _“Ammira il potere di Dio”_
 
 * **Caratteristiche secondaria:** _VOL_
 
-* **Addestramento: **Armi Contundenti ad una mano, ad esclusione del Colpo senz’armi, Armature leggere e Scudi, Bastoni 
+* **Addestramento: **_Bastoni, Armi Contundenti_ ad una mano, ad esclusione del _Colpo senz’armi_, _Armature leggere_ e _Scudi._
 
 * **Abilità di Ruolo:**
 
