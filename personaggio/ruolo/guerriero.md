@@ -33,11 +33,11 @@ Il _Guerriero_ ha abilità che migliorano la sua resistenza e la sua capacità d
 
 * Al 4° _Livello_ ottiene l’abilità _Maestria_. Quando effettua con successo un _Colpo_ con un’_Arma_ in cui ha _Addestramento_, il _Guerriero_ potrà infiggere effetti aggiuntivi, indicati per ogni arma nella colonna _Maestria_ \(vedi capitolo Oggetti\). L’abilità dei _Guerrieri_ gli permette di infliggere ai loro nemici condizioni debilitanti oltre al mero danno fisico.
 
-* Al 6° _Livello_ ottiene l’abilità _Stoico_. Quando il _Personaggio_ fallisce un _Tiro Salvezza_, può ripeterlo una volta per quell’effetto. I _Guerrieri_ sono inarrestabili: stringendo i denti e ignorando il dolore, avanzando senza incertezze.
+* Al 6° _Livello_ ottiene l’abilità _Stoico_. Quando il _Guerriero_ fallisce un _Tiro Salvezza_, può ripeterlo una volta per quell’effetto. I _Guerrieri_ sono inarrestabili: stringendo i denti e ignorando il dolore, avanzando senza incertezze.
 
-* All’8° _Livello_ ottiene l’abilità _Preciso_. Quando il Personaggio effettua un _Colpo_ con un’_Arma_ in cui ha _Addestramento_, tira due volte contemporaneamente il Tiro del Colpo e considera valido il risultato maggiore. Al culmine delle loro capacità, i colpi dei Guerrieri diventano praticamente infallibili.
+* All’8° _Livello_ ottiene l’abilità _Preciso_. Quando il _Guerriero_ effettua un _Colpo_ con un’_Arma_ in cui ha _Addestramento_, tira due volte contemporaneamente il Tiro del Colpo e considera valido il risultato maggiore. Al culmine delle loro capacità, i colpi dei _Guerrieri_ diventano praticamente infallibili.
 
-* Al 10° _Livello_ ottiene l’abilità _Campione_. Quando effettua con successo un _Colpo_ con un’_Arma_ in cui ha _Addestramento_, il Guerriero potrà infiggere effetti aggiuntivi, indicati per ogni arma nella colonna _Campione_ \(vedi capitolo Oggetti\). La maestria dei _Guerrieri_ è tale da permettergli di infliggere ai loro nemici condizioni estremamente debilitanti.
+* Al 10° _Livello_ ottiene l’abilità _Campione_. Quando effettua con successo un _Colpo_ con un’_Arma_ in cui ha _Addestramento_, il _Guerriero_ potrà infiggere effetti aggiuntivi, indicati per ogni arma nella colonna _Campione_ \(vedi capitolo Oggetti\). La maestria dei _Guerrieri_ è tale da permettergli di infliggere ai loro nemici condizioni estremamente debilitanti.
 
 Che siano cavalieri, paladini o semplicemente mercenari, i _Guerrieri_ partecipano alla guerra contro le oscure forze che si sono mosse su Tevennec. Combattenti temprati e addestrati che preferiscono la forza bruta per risolvere i problemi, anche se possono imparare i _Miracoli_ più semplici. In un mondo dove quello che muore non è detto che rimanga per terra, la loro forza bruta potrebbe sembrare inutile, ma la loro abilità unita a degli oggetti magici permette anche ai _Guerrieri_ di poter affrontare tutte le minacce che gli si parano davanti.
 
