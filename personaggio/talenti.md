@@ -16,7 +16,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Benefici: **
 
-    * Il _Personaggio_ ottiene una percentuale pari a La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli _Oggetti_ venduti.
+    * Il _Personaggio_ ottiene una percentuale pari a  $$5+(MEN*2)$$ La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli _Oggetti_ venduti.
 
     * Il _Personaggio_ ha accesso al Mercato nero.
 
@@ -41,7 +41,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Benefici: **
 
-    * Il _Personaggio_ può effettuare _Blocchi_ senza usare _Scudi_. Il _Blocco_ è pari a
+    * Il _Personaggio_ può effettuare _Blocchi_ senza usare _Scudi_. Il _Blocco_ è pari a $$5+(AGI*2)$$
     * Il _Personaggio_ ha un bonus di +2 a tutti i danni inflitti utilizzando armi. 
 
   * **Difetti:**
