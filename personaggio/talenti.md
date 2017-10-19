@@ -16,7 +16,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Benefici: **
 
-    * Il _Personaggio_ ottiene una percentuale pari a 5 più il doppio del suo punteggio di _MEN_. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come bonus sul prezzo degli oggetti venduti.
+    * Il _Personaggio_ ottiene una percentuale pari a La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli _Oggetti_ venduti.
 
     * Il _Personaggio_ ha accesso al Mercato nero.
 
@@ -24,7 +24,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
     * Il _Personaggio_ è meno avvezzo ai pericoli al di fuori della quiete cittadina, per questo ha un malus di -1 a tutti i _Tiri Salvezza_.
 
-* **Corrotto:** In qualche modo la tenebra ha influenzato il corpo del \_Personaggio, \_rendendolo quasi assuefatto. Forse per via di qualche scellerato patto di un suo antenato, forse per qualche inquietante rapporto con gli Immondi.
+* **Corrotto:** In qualche modo la tenebra ha influenzato il corpo del _Personaggio_,  rendendolo quasi assuefatto. Forse per via di qualche scellerato patto di un suo antenato, forse per qualche inquietante rapporto con gli Immondi.
 
   * **Benefici: **
 
@@ -34,16 +34,27 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Difetti:**
 
-    * Il _Personaggio_ è refrattario all’energia divina poiché Dio ripudia la Tenebra: e quando lancia un _Miracolo_ subisce un _Danno_ pari al doppio del livello dell’_Incantesimo_ lanciato.
+    * Il _Personaggio_ è refrattario all’energia divina: quando lancia un _Miracolo_ subisce un _Danno_ pari al doppio del livello dell’_Incantesimo_ lanciato.
     * Il _Personaggio_ ha un’aria inquietante: si acquistano gli _Oggetti_ ad un prezzo del 20% superiore al normale e si vendono ad un prezzo del 20% inferiore.
 
-* **Duellante \(Guerriero\):** Si è addestrati a combattere con destrezza inusuale. 
+* **Duellante \(Guerriero\):** Si è addestrati a combattere con destrezza inusuale.
 
   * **Benefici: **
 
-    * Il _Personaggio_ può effettuare Blocchi senza usare scudi. Il Blocco è pari a 5 più il doppio del suo punteggio di AGI \(Leggere il capitolo DIFESA per il funzionamento del Blocco\). Si ha inoltre un bonus di +2 a tutti i danni inflitti utilizzando armi. Il punteggio di ROB è permanentemente diminuito di 1 punto e si perde l’Addestramento nelle Armature Pesanti o Armi a due mani, poiché questo tipo di combattimento richiede una corporatura esile ed un equipaggiamento leggero.
+    * Il _Personaggio_ può effettuare _Blocchi_ senza usare _Scudi_. Il _Blocco_ è pari a
+    * Il _Personaggio_ ha un bonus di +2 a tutti i danni inflitti utilizzando armi. 
 
-* Luminoso \(Incantatore\): L’Incantatore conserva una parte della propria energia e la utilizza esclusivamente per rendere più potenti le manifestazioni della Sua Luce. Tutti i danni di Luce inflitti dal giocatore vengono tirati due volte e vengono presi i risultati migliori. Parte dell’energia però non è utilizzabile, per questo uno Slot Energia è permanentemente occupato.
+  * **Difetti:**
+    * Il punteggio di _ROB_ del _Personaggio_ è permanentemente diminuito di 1 punto 
+    * Il _Personaggio_ perde l’Addestramento nelle _Armature Pesanti_ e nelle _Armi_ a due mani, poiché questo tipo di combattimento richiede una corporatura esile ed un equipaggiamento leggero.
+
+* **Luminoso \(Incantatore\):** L’_Incantatore_ conserva una parte della propria energia e la utilizza esclusivamente per rendere più potenti le manifestazioni della Sua Luce. 
+
+  * **Benefici:**
+
+    * Tutti i _Danni_ di _Luce_ inflitti dal _Personaggio_ vengono tirati due volte e vengono presi i risultati migliori.
+
+    * Il pun Parte dell’energia però non è utilizzabile, per questo uno Slot Energia è permanentemente occupato.
 
 * Mercenario \(Guerriero\): Si è un tipico esempio di un Guerriero. Il punteggio di AGI è permanentemente aumentato di 1 punto. Si inizia la partita con una Spada Corta e un’Armatura di Cuoio.
 
