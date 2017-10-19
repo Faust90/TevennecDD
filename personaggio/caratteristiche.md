@@ -8,7 +8,7 @@ Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Perso
 
   * La metà del suo valore arrotondata per difetto è aggiunta ai Danni inflitti
 
-  * Il suo valore si aggiunge ai _Tiri Salvezza _contro effetti di _Malattia_, _Mutilazione_, _Sanguinamento_ e _Veleno_.
+  * Il suo valore si aggiunge ai _Tiri Salvezza _contro effetti di_ Malattia_, _Mutilazione_, _Sanguinamento_ e _Veleno_.
 
   * Il suo valore si aggiunge ai tiri su _Concentrazione _\(Vedere il capitolo Magia\)
 
@@ -32,7 +32,7 @@ Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Perso
 
   * Il suo valore migliora la possibilità di effettuare un Colpo Critico \(Vedere il capitolo ATTACCO\)
 
-* **Volontà \(VOL\):** Indica l’incisività della fede del _Personaggio _e la sua forza di volontà.
+* **Volontà \(VOL\):** Indica l’incisività della fede del \_Personaggio \_e la sua forza di volontà.
 
   * Il suo valore viene aggiunto ai danni inflitti dagli _Incantesimi_
 
@@ -42,5 +42,5 @@ Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Perso
 
   * La metà del suo valore arrotondata per difetto determina il numero di _Slot Energia_ recuperati ogni 3 secondi \(Minimo 1\).
 
-Le _Caratteristiche_ non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà incrollabile\). Se una Caratteristica ha punteggio 0, sarà considerata al livello della media della popolazione.
+Le _Caratteristiche_ non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà incrollabile\). Se una _Caratteristica_ ha punteggio 0, sarà considerata al livello della media della popolazione.
 
