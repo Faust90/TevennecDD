@@ -71,7 +71,9 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
 * **Ospitaliere:** Si ha un addestramento volto a curare sul campo le proprie ferite. 
 
-* Si impara Medico, e lo si può lanciare dopo aver subito almeno un colpo dall’ultimo lancio, senza consumare Slot Energia se non ci sono nemici visibili o in battaglia \(Leggere il capitolo MAGIA\). Lo stress fisico a cui si è sottoposti quotidianamente durante lo svolgimento delle proprie mansioni rende più difficile recuperare le energie spirituali, quindi non si può recuperare più di uno Slot Energia.
+  * **Benefici:**
+
+    * Il _Personaggio_ impara _Medico_. Lo si può lanciare dopo aver subito almeno un _Colpo_ dall’ultimo lancio, senza consumare _Slot Energia_ se non ci sono nemici visibili o in battaglia \(Leggere il capitolo MAGIA\). Lo stress fisico a cui si è sottoposti quotidianamente durante lo svolgimento delle proprie mansioni rende più difficile recuperare le energie spirituali, quindi non si può recuperare più di uno Slot Energia.
 
 * **Paladino \(Guerriero\):** La propria fede in Dio è fanatica. Si ottiene uno Slot Energia extra e si possono imparare gli incantesimi di un livello massimo pari a 1 più la metà arrotondata per difetto del punteggio di MEN. Non si possono usare Anelli. Un voto di povertà per dimostrare la propria fede è fondamentale per distinguersi dai comuni discepoli
 
