@@ -25,17 +25,17 @@ _“Ammira il potere di Dio”_
 
 L’Incantatore è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri personaggi non potranno mai imparare. Ha Addestramento nelle Armature leggere e negli Scudi, nei Bastoni e nelle Armi Contundenti ad una mano, ad esclusione del Colpo senz’armi.
 
-* Al primo _Livello_ si possono imparare Incantesimi I livello, ignorando i normali prerequisiti per punteggio di MEN
+* Al 1° _Livello_ si possono imparare _Miracoli_ I livello, ignorando i normali prerequisiti per punteggio di MEN
 
-* Al secondo _Livello_ si possono imparare Incantesimi II livello o inferiore, ignorando i normali prerequisiti per punteggio di MEN
+* Al 2° _Livello_ si possono imparare _Miracoli_ II livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
 
-* Al quarto _Livello_ si possono imparare Incantesimi di III livello o inferiore, ignorando i normali prerequisiti per punteggio di MEN
+* Al 4° _Livello_ si possono imparare _Miracoli_ di III livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
 
-* Al sesto _Livello_ si possono imparare Incantesimi di IV livello o inferiore, ignorando i normali prerequisiti per punteggio di MEN
+* Al 6° _Livello_ si possono imparare _Miracoli_ di IV livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
 
-* All’ottavo _Livello_ si possono imparare Incantesimi di V livello o inferiore, ignorando i normali prerequisiti per punteggio di MEN
+* All’8° _Livello_ si possono imparare _Miracoli_ di V livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
 
-* Al decimo _Livello_ se si hanno meno di sei Slot Energia se ne ottiene uno extra
+* Al 10° _Livello_ se si hanno meno di 6 _Slot Energia_ se ne ottiene uno extra
 
 Sono perlopiù sacerdoti di Dio, che imparano ad avere una connessione alla divinità in modo da poter sfruttare il suo potere per lanciare incantesimi. Nella battaglia dell'umanità contro le creature dell'Ombra, è necessario che agiscano in modo celere e senza farsi impressionare dalle situazioni critiche. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli incantatori sono potenti utilizzatori di incantesimi e combattenti di discreta abilità con i giusti potenziamenti.
 
