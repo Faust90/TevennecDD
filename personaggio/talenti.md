@@ -73,9 +73,21 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Benefici:**
 
-    * Il _Personaggio_ impara _Medico_. Lo si può lanciare dopo aver subito almeno un _Colpo_ dall’ultimo lancio, senza consumare _Slot Energia_ se non ci sono nemici visibili o in battaglia \(Leggere il capitolo MAGIA\). Lo stress fisico a cui si è sottoposti quotidianamente durante lo svolgimento delle proprie mansioni rende più difficile recuperare le energie spirituali, quindi non si può recuperare più di uno Slot Energia.
+    * Il _Personaggio_ impara _Medico_. Lo si può lanciare dopo aver subito almeno un _Colpo_ dall’ultimo lancio, senza consumare _Slot Energia_ se non ci sono nemici visibili o in battaglia \(Leggere il capitolo MAGIA\). 
+  
+  * **Difetti:**
 
-* **Paladino \(Guerriero\):** La propria fede in Dio è fanatica. Si ottiene uno Slot Energia extra e si possono imparare gli incantesimi di un livello massimo pari a 1 più la metà arrotondata per difetto del punteggio di MEN. Non si possono usare Anelli. Un voto di povertà per dimostrare la propria fede è fondamentale per distinguersi dai comuni discepoli
+    * Lo stress fisico a cui si è sottoposti quotidianamente durante lo svolgimento delle proprie mansioni rende più difficile recuperare le energie spirituali, quindi non si può recuperare più di uno _Slot Energia_.
+
+* **Paladino \(Guerriero\):** La propria fede in Dio è fanatica. 
+
+  * **Benefici:**
+  
+    * Il _Personaggio_ ottiene uno _Slot Energia_ extra e si aumenta di 1 il livello degli _Incantesimi_ che può imparare.
+  
+  * **Difetti:**
+
+    * Non si possono usare Anelli. Un voto di povertà per dimostrare la propria fede è fondamentale per distinguersi dai comuni discepoli
 
 * **Templare \(Incantatore\):** Si fa parte dell’ala più militarizzata della Chiesa di Dio, e l’addestramento ha portato ad una maggiore resistenza fisica e una preferenza per le armature pesanti. Si ha Addestramento nelle Armature Pesanti, Armi contundenti a due mani e si aggiungono 3 punti ai Punti Ferita Massimi ed ai Punti Ferita Attuali. Si aumenta permanentemente il punteggio di ROB di 1 punto. Tuttavia Il punteggio di MEN è permanentemente diminuito di 1, poiché l’addestramento marziale ha portato via tempo allo studio delle sacre scritture.
 
