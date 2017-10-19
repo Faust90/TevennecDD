@@ -8,7 +8,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Benefici: **
 
-    * Il punteggio di _VOL_ è permanentemente aumentato di 1 punto.
+    * Il punteggio di _VOL_ del _Personaggio _è permanentemente aumentato di 1 punto.
 
     * Si conoscono i Miracoli Lux, Medico e Sagitta.
 
@@ -22,9 +22,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
   * **Difetti:**
 
-    * Il _Personaggio_ è meno avvezzo ai pericoli al di fuori della quiete cittadina, per questo il _Personaggio_ ha un malus di -1 a tutti i _Tiri Salvezza_.
-
-
+    * Il _Personaggio_ è meno avvezzo ai pericoli al di fuori della quiete cittadina, per questo ha un malus di -1 a tutti i _Tiri Salvezza_.
 
 * **Corrotto:** In qualche modo la tenebra ha influenzato il corpo del \_Personaggio, \_rendendolo quasi assuefatto. Forse per via di qualche scellerato patto di un suo antenato, forse per qualche inquietante rapporto con gli Immondi.
 
