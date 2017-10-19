@@ -10,7 +10,7 @@ I _Talenti_ sono una serie di abilità che espandono il potenziale del _Personag
 
     * Il punteggio di _VOL_ del _Personaggio _è permanentemente aumentato di 1 punto.
 
-    * Si conoscono i Miracoli Lux, Medico e Sagitta.
+    * Il _Personaggio_ conosce i _Miracoli_ _Lux_, _Medico_ e _Sagitta_.
 
 * **Commerciante:** La propria abilità da commerciante è fuori dal comune e si conoscono circuiti di commercio non convenzionale.
 
