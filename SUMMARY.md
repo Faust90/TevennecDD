@@ -9,4 +9,6 @@
   * [Caratteristiche](personaggio/caratteristiche.md)
   * [Punti Ferita](personaggio/punti-ferita.md)
   * [Ruolo](personaggio/ruolo.md)
+    * [Guerriero](personaggio/ruolo/guerriero.md)
+    * [Incantatore](personaggio/ruolo/incantatore.md)
 

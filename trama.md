@@ -1,5 +1,7 @@
 ## Trama
 
+---
+
 L’isola di Tevennec è sempre stata maggiormente a contatto con quello che gli studiosi dell’occulto hanno sempre ipotizzato fosse una dimensione parallela. Un universo di tenebra, entropia ed orrore, popolato da creature aliene. Una piccola percentuale di queste creature ogni tanto penetrava nel mondo materiale, e questo fece in modo che nei secoli si sviluppassero leggende di mostri e creature irreali.
 
 Un giorno accadde una catastrofe: la Porta si aprì nella capitale, e una grande quantità di quelle creature che raramente riuscivano ad arrivare sull’isola vi si riversò. Tutta la parte nord di Tevennec divenne così inabitabile a causa del gran numero di Immondi e Non Morti che la invasero. I pochi sopravvissuti si raccolsero a sud dell’isola e da allora combattono senza sosta una dura guerra per reprimere le forze del male.
