@@ -25,7 +25,7 @@ _“Se sanguina, posso ucciderlo”_
   | 9 | Incremento |
   | 10 | Campione |
 
-Il Guerriero ha abilità che migliorano la sua resistenza e la sua capacità di combattere:
+Il _Guerriero_ ha abilità che migliorano la sua resistenza e la sua capacità di combattere:
 
 * Al 1° _Livello_ l’abilità _Resistente_ gli fa ottenere 3 _Punti Ferita_ aggiuntivi. I _Guerrieri_ sono in grado di resistere al dolore e alle ferite meglio di chiunque altro.
 

@@ -25,7 +25,7 @@ _“Ammira il potere di Dio”_
   | 9 | Incremento |
   | 10 | Profeta |
 
-L’_Incantatore_ è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri personaggi non potranno mai imparare.
+L’_Incantatore_ è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri _Personaggi_ non potranno mai imparare.
 
 * Al 1° _Livello_ si possono imparare _Miracoli_ I livello, ignorando i normali prerequisiti per punteggio di MEN
 

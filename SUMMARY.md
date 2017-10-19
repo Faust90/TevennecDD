@@ -11,4 +11,5 @@
   * [Ruolo](personaggio/ruolo.md)
     * [Guerriero](personaggio/ruolo/guerriero.md)
     * [Incantatore](personaggio/ruolo/incantatore.md)
+  * [Talenti](personaggio/talenti.md)
 
