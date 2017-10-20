@@ -93,7 +93,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
   
-    * Il *Personaggio* ha Addestramento nelle [*Armature Pesanti*](..\oggetti.md), [*Armi Contundenti*](..\oggetti.md) a due mani
+    * Il *Personaggio* ha *Addestramento* nelle [*Armature Pesanti*](..\oggetti.md), [*Armi Contundenti*](..\oggetti.md) a due mani
 	* Il *Personaggio* ha [3 Punti Ferita](punti-ferita.md) aggiuntivi.     
     * Il punteggio di [*ROB*](caratteristiche.md) del *Personaggio* è permanentemente aumentato di 1 punto.
 	
