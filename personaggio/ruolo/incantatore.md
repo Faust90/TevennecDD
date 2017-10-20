@@ -27,9 +27,9 @@
 
 L’*Incantatore* è un utilizzatore di magia esperto, ed impara a lanciare [*Miracoli*](..\..\magia.md) che altri *Personaggi* non potranno mai imparare.
 
-* Al 1° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) I livello, ignorando i normali prerequisiti per punteggio di MEN
+* Al 1° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di I livello, ignorando i normali prerequisiti per punteggio di MEN
 
-* Al 2° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) II livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
+* Al 2° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di II livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
 * Al 4° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di III livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
