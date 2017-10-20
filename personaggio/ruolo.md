@@ -10,7 +10,7 @@ I *Ruoli* servono a improntare il *Personaggio* verso un determinato stile di gi
 
 * **Abilità di Ruolo:** Abilità che possono essere esclusivamente utilizzate da chi ha adottato quel *Ruolo*.
 
-* **Addestramento:** Le *Armi* e le *Armature* che il *Personaggio* sarà in grado di usare \(aggiungendo il bonus di *Addestramento* dove applicabile, vedi capitolo Attacco\).
+* **Addestramento:** Le [*Armi*](..\oggetti.md) e le [*Armature*](..\oggetti.md) che il *Personaggio* sarà in grado di usare \(aggiungendo il bonus di *Addestramento* dove applicabile, vedi capitolo [Attacco](..\combattimento\attacco.md)\).
 
 I *Ruoli* che un *Giocatore* può scegliere per il proprio *Personaggio* sono due: [*Guerriero*](ruolo\guerriero.md) e [*Incantatore*](ruolo\incantatore.md) .
 

@@ -10,7 +10,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * La metà del suo valore arrotondata per difetto è aggiunta ai *Danni* inflitti
 
-  * Il suo valore si aggiunge ai [*Tiri Salvezza*](..\combattimento\difesa.md) contro effetti di [*Malattia*](..\condizioni.md), [*Mutilazione*](..\condizioni.md), [*Sanguinamento*](..\condizioni.md) e [*Veleno*](..\condizioni.md).
+  * Il suo valore si aggiunge ai [*Tiri Salvezza*](..\combattimento\tiri-salvezza.md) contro effetti di [*Malattia*](..\condizioni.md), [*Mutilazione*](..\condizioni.md), [*Sanguinamento*](..\condizioni.md) e [*Veleno*](..\condizioni.md).
 
   * Il suo valore si aggiunge ai tiri su [*Concentrazione*](..\magia.md).
 
@@ -40,7 +40,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * Il suo valore viene aggiunto alla [*Difficoltà*](..\magia.md) degli [*Incantesimi*](..\magia.md).
 
-  * Il suo valore viene aggiunto ai [*Tiri Salvezza*](..\combattimento\difesa.md) contro effetti di [*Maledizione*](..\condizioni.md), [*Confusione*](..\condizioni.md), [*Spavento*](..\condizioni.md), [*Stordimento*](..\condizioni.md).
+  * Il suo valore viene aggiunto ai [*Tiri Salvezza*](..\combattimento\tiri-salvezza.md) contro effetti di [*Maledizione*](..\condizioni.md), [*Confusione*](..\condizioni.md), [*Spavento*](..\condizioni.md), [*Stordimento*](..\condizioni.md).
 
   * La metà del suo valore arrotondata per difetto determina il numero di [*Slot Energia*](..\magia.md) recuperati ogni 3 secondi \(Minimo 1\).
 
