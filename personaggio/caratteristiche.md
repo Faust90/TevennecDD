@@ -4,7 +4,7 @@
 
 Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Personaggio*. Ci sono due *Caratteristiche* fisiche e due mentali.
 
-* **Robustezza \(ROB\):** Indica la resistenza e la forza fisica del *Personaggio*.
+* **Robustezza \(_ROB_\):** Indica la resistenza e la forza fisica del *Personaggio*.
 
   * Il doppio del suo valore si aggiunge ai [*Punti Ferita*](punti-ferita.md).
 
@@ -14,7 +14,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * Il suo valore si aggiunge ai tiri su [*Concentrazione*](..\magia.md).
 
-* **Agilità \(AGI\):** Indica l’agilità e la destrezza del *Personaggio*.
+* **Agilità \(_AGI_\):** Indica l’agilità e la destrezza del *Personaggio*.
 
   * La metà del suo valore arrotondata per difetto si aggiunge all’[*ATK*](..\..\combattimento\attacco.md)
 
@@ -24,7 +24,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * Il suo valore si aggiunge all’Iniziativa. *Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento*
 
-* **Mente \(MEN\):** Indica la saggezza e l’intelligenza del *Personaggio*.
+* **Mente \(_MEN_\):** Indica la saggezza e l’intelligenza del *Personaggio*.
 
   * Il suo valore è pari al numero di [*Slot Energia*](..\magia.md).
 
@@ -34,7 +34,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * Il suo valore migliora la possibilità di effettuare un [*Colpo Critico*](..\combattimento\attacco.md)
 
-* **Volontà \(VOL\):** Indica l’incisività della fede del *Personaggio* e la sua forza di volontà.
+* **Volontà \(_VOL_\):** Indica l’incisività della fede del *Personaggio* e la sua forza di volontà.
 
   * Il suo valore viene aggiunto ai danni inflitti dagli [*Incantesimi*](..\magia.md).
 

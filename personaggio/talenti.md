@@ -16,7 +16,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il *Personaggio* ottiene una percentuale pari a  **5+([*MEN*](caratteristiche.md)*2)**. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli [*Oggetti*](oggetti.md) venduti.
+    * Il *Personaggio* ottiene una percentuale pari a  **5 + ( [*MEN*](caratteristiche.md) * 2 )**. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli [*Oggetti*](oggetti.md) venduti.
 
     * Il *Personaggio* ha accesso al Mercato nero.
 
@@ -41,7 +41,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il *Personaggio* può effettuare [*Blocchi*](..\combattimento\difesa.md) senza usare *Scudi*. Il *Blocco* è pari a  **5+([*AGI*](caratteristiche.md)\*2)**
+    * Il *Personaggio* può effettuare [*Blocchi*](..\combattimento\difesa.md) senza usare *Scudi*. Il *Blocco* è pari a  **5 + ( [*AGI*] (caratteristiche.md)\* 2 )**
     * Il *Personaggio* ha un bonus di +2 a tutti i danni inflitti utilizzando armi. 
 
   * **Difetti:**
@@ -73,7 +73,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il *Personaggio* impara *Medico*. Lo si può lanciare dopo aver subito almeno un *Colpo* dall’ultimo lancio, senza consumare [*Slot Energia*](..\magia.md) se non ci sono nemici visibili o in battaglia. 
+    * Il *Personaggio* impara [*Medico*](..\magia\liv-I.md). Lo si può lanciare dopo aver subito almeno un *Colpo* dall’ultimo lancio, senza consumare [*Slot Energia*](..\magia.md) se non ci sono nemici visibili o in battaglia. 
   
   * **Difetti:**
 
@@ -93,8 +93,8 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
   
-    * Il *Personaggio* ha Addestramento nelle *Armature Pesanti*, *Armi Contundenti* a due mani
-	* Il *Personaggio* ha 3 Punti Ferita aggiuntivi.     
+    * Il *Personaggio* ha Addestramento nelle [*Armature Pesanti*](..\oggetti.md), [*Armi Contundenti*](..\oggetti.md) a due mani
+	* Il *Personaggio* ha [3 Punti Ferita](punti-ferita.md) aggiuntivi.     
     * Il punteggio di [*ROB*](caratteristiche.md) del *Personaggio* è permanentemente aumentato di 1 punto.
 	
   * **Difetti:**
