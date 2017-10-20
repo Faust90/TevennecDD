@@ -12,4 +12,8 @@
     * [Guerriero](personaggio/ruolo/guerriero.md)
     * [Incantatore](personaggio/ruolo/incantatore.md)
   * [Talenti](personaggio/talenti.md)
+* Combattimento
+  * [Attacco](combattimento/attacco.md)
+  * [Difesa](combattimento/difesa.md)
+  * [Tiri Salvezza](combattimento/tiri-salvezza.md)
 

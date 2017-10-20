@@ -2,49 +2,49 @@
 
 ---
 
-Le _Caratteristiche_ servono a indicare la prestanza fisica e mentale del _Personaggio_. Ci sono due _Caratteristiche_ fisiche e due mentali.
+Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Personaggio*. Ci sono due *Caratteristiche* fisiche e due mentali.
 
-* **Robustezza \(ROB\): **Indica la resistenza e la forza fisica del _Personaggio_.
+* **Robustezza \(ROB\):** Indica la resistenza e la forza fisica del *Personaggio*.
 
-  * Il doppio del suo valore si aggiunge ai _Punti Ferita Massimi_ e _Punti Ferita Attuali_.
+  * Il doppio del suo valore si aggiunge ai [*Punti Ferita*](punti-ferita.md).
 
-  * La metà del suo valore arrotondata per difetto è aggiunta ai Danni inflitti
+  * La metà del suo valore arrotondata per difetto è aggiunta ai *Danni* inflitti
 
-  * Il suo valore si aggiunge ai _Tiri Salvezza_ contro effetti di _ Malattia_, _Mutilazione_, _Sanguinamento_ e _Veleno_.
+  * Il suo valore si aggiunge ai [*Tiri Salvezza*](..\combattimento\difesa.md) contro effetti di [*Malattia*](..\condizioni.md), [*Mutilazione*](..\condizioni.md), [*Sanguinamento*](..\condizioni.md) e [*Veleno*](..\condizioni.md).
 
-  * Il suo valore si aggiunge ai tiri su _Concentrazione_ \(Vedere il capitolo Magia\)
+  * Il suo valore si aggiunge ai tiri su [*Concentrazione*](..\magia.md).
 
-* **Agilità \(AGI\):** Indica l’agilità e la destrezza del _Personaggio_.
+* **Agilità \(AGI\):** Indica l’agilità e la destrezza del *Personaggio*.
 
-  * La metà del suo valore arrotondata per difetto si aggiunge all’_ATK_
+  * La metà del suo valore arrotondata per difetto si aggiunge all’[*ATK*](..\..\combattimento\attacco.md)
 
-  * Il suo valore si aggiunge alla _DEF_
+  * Il suo valore si aggiunge alla [*DEF*](..\combattimento\difesa.md)
 
-  * Il suo valore si aggiunge al _Blocco_
+  * Il suo valore si aggiunge al [*Blocco*](..\combattimento\difesa.md)
 
-  * Il suo valore si aggiunge all’Iniziativa. _Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento_
+  * Il suo valore si aggiunge all’Iniziativa. *Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento*
 
-* **Mente \(MEN\):** Indica la saggezza e l’intelligenza del _Personaggio_.
+* **Mente \(MEN\):** Indica la saggezza e l’intelligenza del *Personaggio*.
 
-  * Il suo valore è pari al numero di _Slot Energia_.
+  * Il suo valore è pari al numero di [*Slot Energia*](..\magia.md).
 
   * La metà del suo valore arrotondata per difetto determina il livello massimo di incantesimi che si può imparare
 
-  * Il suo valore migliora la velocità di lancio degli Incantesimi. \(Vedere il capitolo MAGIA\)
+  * Il suo valore migliora la velocità di lancio degli [*Incantesimi*](..\magia.md).
 
-  * Il suo valore migliora la possibilità di effettuare un Colpo Critico \(Vedere il capitolo ATTACCO\)
+  * Il suo valore migliora la possibilità di effettuare un [*Colpo Critico*](..\combattimento\attacco.md)
 
-* **Volontà \(VOL\):** Indica l’incisività della fede del _Personaggio_ e la sua forza di volontà.
+* **Volontà \(VOL\):** Indica l’incisività della fede del *Personaggio* e la sua forza di volontà.
 
-  * Il suo valore viene aggiunto ai danni inflitti dagli _Incantesimi_
+  * Il suo valore viene aggiunto ai danni inflitti dagli [*Incantesimi*](..\magia.md).
 
-  * Il suo valore viene aggiunto alla _Difficoltà_ degli _Incantesimi_
+  * Il suo valore viene aggiunto alla [*Difficoltà*](..\magia.md) degli [*Incantesimi*](..\magia.md).
 
-  * Il suo valore viene aggiunto ai _Tiri Salvezza_ contro effetti di _Maledizione_, _Confusione_, _Spavento_, _Stordimento_.
+  * Il suo valore viene aggiunto ai [*Tiri Salvezza*](..\combattimento\difesa.md) contro effetti di [*Maledizione*](..\condizioni.md), [*Confusione*](..\condizioni.md), [*Spavento*](..\condizioni.md), [*Stordimento*](..\condizioni.md).
 
-  * La metà del suo valore arrotondata per difetto determina il numero di _Slot Energia_ recuperati ogni 3 secondi \(Minimo 1\).
+  * La metà del suo valore arrotondata per difetto determina il numero di [*Slot Energia*](..\magia.md) recuperati ogni 3 secondi \(Minimo 1\).
 
-Le _Caratteristiche_ non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà incrollabile\). Se una _Caratteristica_ ha punteggio 0, sarà considerata al livello della media della popolazione.
+Le *Caratteristiche* non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà incrollabile\). Se una *Caratteristica* ha punteggio 0, sarà considerata nella media della popolazione.
 
-Al 1° _Livello_ e quando si raggiunge il 3°, 5°, 7° e 9° _Livello_ del _Personaggio_, il _Giocatore_ avrà a disposizione un _Incremento_, che può utilizzare per aumentare di 1 il punteggio di una qualunque _Caratteristica_. È possibile aumentare una _Caratteristica_ equipaggiando oggetti magici che forniscono un bonus a quella _Caratteristica_.
+Al 1° [*Livello*](livelli.md) e quando si raggiunge il 3°, 5°, 7° e 9° [*Livello*](livelli.md) del *Personaggio*, il *Giocatore* avrà a disposizione un *Incremento*, che può utilizzare per aumentare di 1 il punteggio di una qualunque *Caratteristica*. È possibile aumentare una *Caratteristica* equipaggiando oggetti magici che forniscono un bonus a quella *Caratteristica*.
 

@@ -1,14 +1,14 @@
-#### Incantatore
+### Incantatore
 
 ---
 
-_“Ammira il potere di Dio”_
+*“Ammira il potere di Dio”*
 
-* **Caratteristica primaria:** _MEN_
+* **Caratteristica primaria:** [*MEN*](../caratteristiche.md)
 
-* **Caratteristiche secondaria:** _VOL_
+* **Caratteristiche secondaria:** [*VOL*](../caratteristiche.md)
 
-* **Addestramento: **_Bastoni, Armi Contundenti_ ad una mano, ad esclusione del _Colpo senz’armi_, _Armature leggere_ e _Scudi._
+* **Addestramento:** *Bastoni, Armi Contundenti* ad una mano, ad esclusione del *Colpo senz’armi*, *Armature leggere* e *Scudi.*
 
 * **Abilità di Ruolo:**
 
@@ -25,19 +25,19 @@ _“Ammira il potere di Dio”_
 | 9       | Incremento                |
 | 10      | Profeta                   |
 
-L’_Incantatore_ è un utilizzatore di magia esperto, ed impara a lanciare incantesimi che altri _Personaggi_ non potranno mai imparare.
+L’*Incantatore* è un utilizzatore di magia esperto, ed impara a lanciare [*Miracoli*](..\..\magia.md) che altri *Personaggi* non potranno mai imparare.
 
-* Al 1° _Livello_ si possono imparare _Miracoli_ I livello, ignorando i normali prerequisiti per punteggio di MEN
+* Al 1° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) I livello, ignorando i normali prerequisiti per punteggio di MEN
 
-* Al 2° _Livello_ si possono imparare _Miracoli_ II livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
+* Al 2° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) II livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* Al 4° _Livello_ si possono imparare _Miracoli_ di III livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
+* Al 4° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di III livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* Al 6° _Livello_ si possono imparare _Miracoli_ di IV livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
+* Al 6° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di IV livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* All’8° _Livello_ si possono imparare _Miracoli_ di V livello o inferiore, ignorando i normali prerequisiti per punteggio di _MEN_
+* All’8° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di V livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* Al 10° _Livello_ se si hanno meno di 6 _Slot Energia_ se ne ottiene uno extra
+* Al 10° *Livello* se si hanno meno di 6 [*Slot Energia*](..\..\magia.md) se ne ottiene uno extra
 
-Sono perlopiù sacerdoti di Dio, che imparano a meditare e ad avere una maggiore connessione all' energia di Luce, in modo da poterla sfruttare per compiere _Miracoli_. Nella battaglia dell'umanità contro le creature delle tenebre, il loro compito è quello di supportare gli alleati e punire i nemici utilizzando la più potente magia. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli _Incantatori_ sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
+Sono perlopiù sacerdoti di Dio, che imparano a meditare e ad avere una maggiore connessione all' energia di Luce, in modo da poterla sfruttare per compiere [*Miracoli*](..\..\magia.md). Nella battaglia dell'umanità contro le creature delle tenebre, il loro compito è quello di supportare gli alleati e punire i nemici utilizzando la più potente magia. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli *Incantatori* sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
 
