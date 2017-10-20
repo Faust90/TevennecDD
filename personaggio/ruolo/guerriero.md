@@ -12,18 +12,18 @@ _“Se sanguina, posso ucciderlo”_
 
 * **Abilità di Ruolo:**
 
-  | Livello | Abilità |
-  | :--- | :--- |
-  | 1 | Incremento, Resistente |
-  | 2 | Letale |
-  | 3 | Incremento |
-  | 4 | Maestria |
-  | 5 | Incremento |
-  | 6 | Stoico |
-  | 7 | Incremento |
-  | 8 | Preciso |
-  | 9 | Incremento |
-  | 10 | Campione |
+| Livello | Abilità                |
+| :------ | :--------------------- |
+| 1       | Incremento, Resistente |
+| 2       | Letale                 |
+| 3       | Incremento             |
+| 4       | Maestria               |
+| 5       | Incremento             |
+| 6       | Stoico                 |
+| 7       | Incremento             |
+| 8       | Preciso                |
+| 9       | Incremento             |
+| 10      | Campione               |
 
 Il _Guerriero_ ha abilità che migliorano la sua resistenza e la sua capacità di combattere:
 
