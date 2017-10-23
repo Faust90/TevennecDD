@@ -1,4 +1,4 @@
-## PERSONAGGIO
+## Personaggio
 
 ---
 
