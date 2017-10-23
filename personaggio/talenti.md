@@ -10,7 +10,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
     * Il punteggio di [*VOL*](caratteristiche.md) del *Personaggio *è permanentemente aumentato di 1 punto.
 
-    * Il *Personaggio* conosce i [*Miracoli*](..\magia.md) [*Lux*](..\magia\liv-I.md), [*Medico*](..\magia\liv-I.md) e [*Sagitta*](..\magia\liv-I.md).
+    * Il *Personaggio* conosce i [*Miracoli*](..\magia.md) [*Lux*](..\magia\miracoli\liv-I.md), [*Medico*](..\magia\miracoli\liv-I.md) e [*Sagitta*](..\magia\miracoli\liv-I.md).
 
 * **Commerciante:** La propria abilità da commerciante è fuori dal comune e si conoscono circuiti di commercio non convenzionale.
 
@@ -73,7 +73,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il *Personaggio* impara [*Medico*](..\magia\liv-I.md). Lo si può lanciare dopo aver subito almeno un *Colpo* dall’ultimo lancio, senza consumare [*Slot Energia*](..\magia.md) se non ci sono nemici visibili o in battaglia. 
+    * Il *Personaggio* impara [*Medico*](..\magia\miracoli\liv-I.md). Lo si può lanciare dopo aver subito almeno un *Colpo* dall’ultimo lancio, senza consumare [*Slot Energia*](..\magia.md) se non ci sono nemici visibili o in battaglia. 
   
   * **Difetti:**
 

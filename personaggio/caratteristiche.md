@@ -1,4 +1,4 @@
-### CARATTERISTICHE
+### Caratteristiche
 
 ---
 

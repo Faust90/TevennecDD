@@ -1,5 +1,5 @@
 ## Magia
-
+---
 La magia è la complessa arte di utilizzare l'energia dell'altro universo per creare effetti nel mondo materiale. Per poter lanciare *Incantesimi* è necessario saper entrare in contatto con l'altro universo tramite una preghiera e saper incanalare l'energia di Luce con maestria. Per molti è un’attività molto complicata, mentre per gli [*Incantatori*](personaggio\ruolo\incantatore.md) è meno difficile per via del loro speciale addestramento. Vi è poi una magia nera ed oscura che è utilizzata dai [*Mostri*](mostri,md), e che gli umani non sono in grado di utilizzare se non attraverso orrendi riti che ne cambiano irrimediabilmente la natura. 
 
 Lanciare un *Incantesimo* conosciuto consuma un certo numbero di *Slot Energia*. Si recupera un numero di *Slot Energia* pari alla metà (arrotondata per difetto) del punteggio di [*VOL*](personaggio\caratteristiche.md) ogni 3 secondi. Si ha uno *Slot Energia* per ogni punto in [*MEN*](personaggio\caratteristiche.md) e possono ottenere uno *Slot Energia* aggiuntivi con il [*Talento*](personaggio\talenti.md) *Paladino*. Un [*Incantatore*](personaggio\ruolo\incantatore.md) ottiene uno *Slot Energia* bonus al 10° [*Livello*](personaggio\livelli.md). In ogni caso, il minimo numero di slot che un [*Personaggio*](personaggio.md) può avere è 0, il massimo è 6. 
