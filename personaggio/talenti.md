@@ -16,7 +16,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il *Personaggio* ottiene una percentuale pari a  **5 + ( [*MEN*](caratteristiche.md) * 2 )**. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli [*Oggetti*](oggetti.md) venduti.
+    * Il *Personaggio* ottiene una percentuale pari a  **5 + ( [*MEN*](caratteristiche.md) \* 2 )**. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli [*Oggetti*](oggetti.md) venduti.
 
     * Il *Personaggio* ha accesso al Mercato nero.
 
@@ -41,13 +41,13 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il *Personaggio* può effettuare [*Blocchi*](..\combattimento\difesa.md) senza usare *Scudi*. Il *Blocco* è pari a  **5 + ( [*AGI*] (caratteristiche.md)\* 2 )**
+    * Il *Personaggio* può effettuare [*Blocchi*](..\combattimento\difesa.md) senza usare *Scudi*. Il *Blocco* è pari a  **5 + ( [*AGI*] (caratteristiche.md) \* 2 )**
     * Il *Personaggio* ha un bonus di +2 a tutti i danni inflitti utilizzando armi. 
 
   * **Difetti:**
 
     * Il punteggio di [*ROB*](caratteristiche.md) del *Personaggio* è permanentemente diminuito di 1 punto 
-    * Il *Personaggio* perde l’Addestramento nelle *Armature Pesanti* e nelle *Armi* a due mani, poiché questo tipo di combattimento richiede una corporatura esile ed un equipaggiamento leggero.
+    * Il *Personaggio* perde l’Addestramento nelle [*Armature Pesanti*](..\oggetti\equipaggiabili.md) e nelle [*Armi*](..\oggetti\equipaggiabili.md)a due mani, poiché questo tipo di combattimento richiede una corporatura esile ed un equipaggiamento leggero.
 
 * **Luminoso \(Incantatore\):** L’*Incantatore* conserva una parte della propria energia e la utilizza esclusivamente per rendere più potenti le manifestazioni della Sua Luce.
 
@@ -93,7 +93,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
   
-    * Il *Personaggio* ha *Addestramento* nelle [*Armature Pesanti*](..\oggetti.md), [*Armi Contundenti*](..\oggetti.md) a due mani
+    * Il *Personaggio* ha *Addestramento* nelle [*Armature Pesanti*](..\oggetti\equipaggiabili.md), [*Armi Contundenti*](..\oggetti\equipaggiabili.md) a due mani
 	* Il *Personaggio* ha [3 Punti Ferita](punti-ferita.md) aggiuntivi.     
     * Il punteggio di [*ROB*](caratteristiche.md) del *Personaggio* è permanentemente aumentato di 1 punto.
 	
