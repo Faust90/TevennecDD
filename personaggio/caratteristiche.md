@@ -20,7 +20,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * Il suo valore si aggiunge alla [*DEF*](..\combattimento\difesa.md)
 
-  * Il suo valore si aggiunge al [*Blocco*](..\combattimento\difesa.md)
+  * Il suo valore si aggiunge al [*Blocco*](..\combattimento\blocco.md)
 
   * Il suo valore si aggiunge all’Iniziativa. *Questo parametro non è utilizzato nel gioco, ma piuttosto verrà utilizzato nei prototipi o in un eventuale versione cartacea per gestire l’ordine di azione in combattimento*
 

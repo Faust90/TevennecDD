@@ -15,6 +15,7 @@
 * Combattimento
   * [Attacco](combattimento\attacco.md)
   * [Difesa](combattimento\difesa.md)
+  * [Blocco](combattimento\blocco.md)
   * [Tiri Salvezza](combattimento\tiri-salvezza.md)
 * [Magia](magia.md)
   * [Miracoli](magia\miracoli.md)
