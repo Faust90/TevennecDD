@@ -16,4 +16,5 @@
   * [Attacco](combattimento/attacco.md)
   * [Difesa](combattimento/difesa.md)
   * [Tiri Salvezza](combattimento/tiri-salvezza.md)
-
+* [Magia](miracoli.md)
+  * [Miracoli](magia\miracoli.md)

@@ -25,19 +25,19 @@
 | 9       | Incremento                |
 | 10      | Profeta                   |
 
-L’*Incantatore* è un utilizzatore di magia esperto, ed impara a lanciare [*Miracoli*](..\..\magia.md) che altri *Personaggi* non potranno mai imparare.
+L’*Incantatore* è un utilizzatore di magia esperto, ed impara a lanciare [*Miracoli*](..\..\magia\miracoli.md) che altri *Personaggi* non potranno mai imparare.
 
-* Al 1° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di I livello, ignorando i normali prerequisiti per punteggio di MEN
+* Al 1° *Livello* si possono imparare [*Miracoli*](..\..\magia\miracoli.md) di I livello, ignorando i normali prerequisiti per punteggio di MEN
 
-* Al 2° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di II livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
+* Al 2° *Livello* si possono imparare [*Miracoli*](..\..\magia\miracoli.md) di II livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* Al 4° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di III livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
+* Al 4° *Livello* si possono imparare [*Miracoli*](..\..\magia\miracoli.md) di III livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* Al 6° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di IV livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
+* Al 6° *Livello* si possono imparare [*Miracoli*](..\..\magia\miracoli.md) di IV livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
-* All’8° *Livello* si possono imparare [*Miracoli*](..\..\magia.md) di V livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
+* All’8° *Livello* si possono imparare [*Miracoli*](..\..\magia\miracoli.md) di V livello o inferiore, ignorando i normali prerequisiti per punteggio di *MEN*
 
 * Al 10° *Livello* se si hanno meno di 6 [*Slot Energia*](..\..\magia.md) se ne ottiene uno extra
 
-Sono perlopiù sacerdoti di Dio, che imparano a meditare e ad avere una maggiore connessione all' energia di Luce, in modo da poterla sfruttare per compiere [*Miracoli*](..\..\magia.md). Nella battaglia dell'umanità contro le creature delle tenebre, il loro compito è quello di supportare gli alleati e punire i nemici utilizzando la più potente magia. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli *Incantatori* sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
+Sono perlopiù sacerdoti di Dio, che imparano a meditare e ad avere una maggiore connessione all' energia di Luce, in modo da poterla sfruttare per compiere [*Miracoli*](..\..\magia\miracoli.md). Nella battaglia dell'umanità contro le creature delle tenebre, il loro compito è quello di supportare gli alleati e punire i nemici utilizzando la più potente magia. Sempre a contatto con gli orrori di questa guerra soprannaturale, gli *Incantatori* sono potenti utilizzatori di incantesimi e combattenti di discreta abilità.
 
