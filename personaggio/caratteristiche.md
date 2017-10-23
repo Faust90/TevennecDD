@@ -28,7 +28,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * Il suo valore è pari al numero di [*Slot Energia*](..\magia.md).
 
-  * La metà del suo valore arrotondata per difetto determina il livello massimo di incantesimi che si può imparare
+  * La metà del suo valore arrotondata per difetto determina il livello massimo di [*Incantesimi*](..\magia.md) che si può imparare
 
   * Il suo valore migliora la velocità di lancio degli [*Incantesimi*](..\magia.md).
 
@@ -36,9 +36,9 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
 * **Volontà \(_VOL_\):** Indica l’incisività della fede del *Personaggio* e la sua forza di volontà.
 
-  * Il suo valore viene aggiunto ai danni inflitti dagli [*Incantesimi*](..\magia.md).
+  * Il suo valore viene aggiunto ai *Danni* inflitti dagli [*Incantesimi*](..\magia.md).
 
-  * Il suo valore viene aggiunto alla [*Difficoltà*](..\magia.md) degli [*Incantesimi*](..\magia.md).
+  * Il suo valore viene aggiunto alla [*Difficoltà*](..\combattimento\tiri-salvezza.md) degli [*Incantesimi*](..\magia.md).
 
   * Il suo valore viene aggiunto ai [*Tiri Salvezza*](..\combattimento\tiri-salvezza.md) contro effetti di [*Maledizione*](..\condizioni.md), [*Confusione*](..\condizioni.md), [*Spavento*](..\condizioni.md), [*Stordimento*](..\condizioni.md).
 
@@ -46,5 +46,5 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
 Le *Caratteristiche* non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà incrollabile\). Se una *Caratteristica* ha punteggio 0, sarà considerata nella media della popolazione.
 
-Al 1° [*Livello*](livelli.md) e quando si raggiunge il 3°, 5°, 7° e 9° [*Livello*](livelli.md) del *Personaggio*, il *Giocatore* avrà a disposizione un *Incremento*, che può utilizzare per aumentare di 1 il punteggio di una qualunque *Caratteristica*. È possibile aumentare una *Caratteristica* equipaggiando oggetti magici che forniscono un bonus a quella *Caratteristica*.
+Al 1°, al 3°, 5°, 7° e 9° [*Livello*](livelli.md) del *Personaggio*, il *Giocatore* avrà a disposizione un *Incremento*, che può utilizzare per aumentare di 1 il punteggio di una qualunque *Caratteristica*. È possibile aumentare una *Caratteristica* equipaggiando oggetti magici che forniscono un bonus a quella *Caratteristica*.
 
