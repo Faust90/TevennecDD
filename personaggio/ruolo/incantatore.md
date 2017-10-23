@@ -8,7 +8,7 @@
 
 * **Caratteristiche secondaria:** [*VOL*](../caratteristiche.md)
 
-* **Addestramento:** *Bastoni, Armi Contundenti* ad una mano, ad esclusione del *Colpo senz’armi*, *Armature leggere* e *Scudi.*
+* **Addestramento:** [*Bastoni*](..\oggetti\equipaggiabili.md), [*Armi Contundenti*](..\oggetti\equipaggiabili.md) ad una mano, ad esclusione del *Colpo senz’armi*, [*Armature leggere*](..\oggetti\equipaggiabili.md) e [*Scudi.*](..\oggetti\equipaggiabili.md)
 
 * **Abilità di Ruolo:**
 

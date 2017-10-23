@@ -8,8 +8,8 @@
 
 * **Caratteristiche secondaria:** [*AGI*](..\caratteristiche.md)
 
-* **Addestramento:** Tutte le [*Armi*](..\..\oggetti.md)
- ad esclusione del *Colpo senz’armi* e in tutte le [*Armature*](..\..\oggetti.md) e gli [*Scudi*](..\..\oggetti.md)
+* **Addestramento:** Tutte le [*Armi*](..\oggetti\equipaggiabili.md)
+ ad esclusione del *Colpo senz’armi* e in tutte le [*Armature*](..\oggetti\equipaggiabili.md) e gli [*Scudi*](..\oggetti\equipaggiabili.md)
 
 * **Abilità di Ruolo:**
 
