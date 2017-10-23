@@ -1,4 +1,4 @@
-### DIFESA		
+### Difesa		
 ---
 La *Difesa* (*DEF*) rappresenta l'abilità di una creatura nell' evitare gli attacchi subiti. È calcolata con la seguente formula:
 

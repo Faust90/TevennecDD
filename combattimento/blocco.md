@@ -1,4 +1,4 @@
-### BLOCCO
+### Blocco
 
 Quando un [*Personaggio*](..\personaggio.md) utilizza uno scudo, ha una certa possibilità di negare i danni inflitti da un colpo subito. Quando si subisce un colpo, viene tirato un d20 aggiungendoci il valore di *Blocco*: se il risultato è maggiore o uguale a 20, non vengono subiti *Danni*. Se il tentativo di bloccare un attacco ha successo, non si potranno tentare di bloccare gli attacchi successivi per i prossimi 0.5 secondi. La probabilità di effettuare un Blocco con successo è calcolata con la seguente formula:
 
