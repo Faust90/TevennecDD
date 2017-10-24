@@ -24,5 +24,3 @@ I *Colpi* inflitti possono essere mirati a particolari punti deboli dei nemici: 
 Se chi subisce il danno ha *Resistenza* a quel tipo di danno, ogni volta che subirà danni di quel tipo ne ridurrà la quantità di 3. Se invece chi subisce il danno ha *Immunità* a quel tipo di danno, il danno subito è sempre uguale a 0. Se chi subisce il danno ha *Vulnerabilità* a quel tipo di danno, ogni volta che subirà danni di quel tipo subirà 3 danni in più.
 
 Il tempo di esecuzione di un Attacco è fisso, a seconda del numero di *Colpi*. Per un attacco a *Colpo* singolo il tempo sarà pari a 1 sec, altrimenti per un attacco con due *Colpi* sarà uguale a 1.5 sec (0.75 sec per *Colpo*).
-
-

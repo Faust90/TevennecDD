@@ -18,6 +18,3 @@ Quando avrà raggiunto un certo quantitativo di *Punti Esperienza*, detto *Tragu
 | 8       | 16000     |
 | 9       | 18000     |
 | 10      | -         |
-
-
-

@@ -13,5 +13,5 @@
     >*"La benevola mano di Dio allevia gli affanni dell’animo e le piaghe del corpo. Prega il Buon Padre, e sarai tutti i tuoi mali saranno sanati"*
 
 
-*	**Sagitta (Istantaneo):** Una volta lanciato dal [*Personaggio*](..\..\personaggio.md) parte un dardo di luce che viaggia nella direzione del punto cliccato dal mouse. Se incontra un [*Mostro*](..\..\mostri.md) o un ostacolo lungo il viaggio, oppure se esce dallo schermo, il dardo si distrugge. Se colpisce un *Mostro*, quest'ultimo subisce **1d6 + [*VOL*](..\..\personaggio\caratteristiche.md)** *Danni* di [*Luce*](..\..\combattimento\attacco.md). 
+*	**Sagitta (Istantaneo):** Una volta lanciato dal [*Personaggio*](..\..\personaggio.md) parte un dardo di luce che viaggia nella direzione del punto cliccato dal mouse. Se incontra un [*Mostro*](..\..\mostri.md) o un ostacolo lungo il viaggio, oppure se esce dallo schermo, il dardo si distrugge. Se colpisce un *Mostro*, quest'ultimo subisce **1d6 + [*VOL*](..\..\mostro\caratteristiche.md)** *Danni* di [*Luce*](..\..\combattimento\attacco.md). 
     >*"Io vidi a quel punto comparire dal nulla una luminosa freccia, che colpì senza fallire i nemici di Dio. Oh, le terribili urla di dolore e spavento che essi lanciarono quando il fulgore divino li investì! Solo allora si resero conto dell’errore che avevano fatto."*

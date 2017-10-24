@@ -13,6 +13,3 @@ Il *Tempo di Lancio* dei *Miracoli* si misura in secondi e si calcola con la seg
 Il *Tempo di Lancio* non sarà comunque inferiore a 0.6 sec o superiore a 2 sec.
 
 Il numero di *Slot Energia* che un *Miracolo* consuma dipende dal suo livello di *Incantesimo*, ed è indicato tra parentesi a fianco al livello di *Incantesimo*.  Le *Aure*, quando vengono lanciate, *Occupano* gli *Slot Energia* necessari per il lancio. Quest'ultimi non saranno più disponbili fino a che non viene terminato l'effetto dell'*Aura*. Il [*Personaggio*](..\personaggio.md) può terminare volontariamente le *Aure* attive, oppure possono essere terminate dai [*Mostri*](mostri.md) tramite effetti come [*Sopprimere Aura*](..\mostri\incantesimi\liv-II.md) 
-
-
-

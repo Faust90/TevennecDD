@@ -1,6 +1,6 @@
 ###	III Livello (Costo: 2 *Slot Energia*)
 ---
-*	**Carcero (Istantaneo):** Per lanciare l'*Incantesimo*, bisogna cliccare un [*Mostro*](..\..\mostri.md) bersaglio avendolo preparato. Cliccando su un *Mostro* sullo schermo, quest’ultimo deve fare un [*Tiro Salvezza*](..\..\combattimento\tiri-salvezza.md) su [*VOL*](..\..\personaggio\caratteristiche.md). Se lo fallisce, acquisisce la condizione [*Paralizzato*](..\..\condizioni.md) con durata 6 secondi.
+*	**Carcero (Istantaneo):** Per lanciare l'*Incantesimo*, bisogna cliccare un [*Mostro*](..\..\mostri.md) bersaglio avendolo preparato. Cliccando su un *Mostro* sullo schermo, quest’ultimo deve fare un [*Tiro Salvezza*](..\..\combattimento\tiri-salvezza.md) su [*VOL*](..\..\mostri\caratteristiche.md). Se lo fallisce, acquisisce la condizione [*Paralizzato*](..\..\condizioni.md) con durata 6 secondi.
     >*"Il mostro ruggiva il suo odio verso il mondo, distruggendo le opere di uomini buoni, devoti a Dio. Lui allora imprigionò l’empio demone, incarcerandolo in un’inespugnabile prigione di Luce. Ora il nemico di Dio urla di rabbia, imprigionato per sempre dietro a sbarre di vera purezza. Questo è il destino di chi si oppone a Lui"*
 
 *	**Celeritas (Aura):** Una volta lanciato un cerchio di luce compare ai piedi del [*Personaggio*](..\..\personaggio.md). Il *Personaggio* raddoppia la sua velocità di movimento e riduce il tempo di lancio degli altri incantesimi di 0.2 sec fino a che l’Incantesimo rimane attivo. Questo può ridurre il tempo di lancio a 0.5 sec, contrariamente al normale limite di tempo. 

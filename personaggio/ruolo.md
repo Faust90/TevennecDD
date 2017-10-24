@@ -12,8 +12,4 @@ I *Ruoli* servono a improntare il *Personaggio* verso un determinato stile di gi
 
 * **Addestramento:** Le [*Armi*](..\oggetti\equipaggiabili.md) e le [*Armature*](..\oggetti\equipaggiabili.md) che il *Personaggio* sarà in grado di usare \(aggiungendo il bonus di *Addestramento* dove applicabile, vedi capitolo [Attacco](..\combattimento\attacco.md)\).
 
-I *Ruoli* che un *Giocatore* può scegliere per il proprio *Personaggio* sono due: [*Guerriero*](ruolo\guerriero.md) e [*Incantatore*](ruolo\incantatore.md) .
-
-
-
-
+I *Ruoli* che un *Giocatore* può scegliere per il proprio *Personaggio* sono due: [*Guerriero*](ruolo\guerriero.md) e [*Incantatore*](ruolo\incantatore.md).

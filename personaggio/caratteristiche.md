@@ -47,4 +47,3 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 Le *Caratteristiche* non possono avere un valore minore di -5 o maggiore di 5. Questi limiti rappresentano rispettivamente uno stato di gravissima mancanza \(estrema fragilità fisica, totale atrofia muscolare, stato vegetativo o apatia completa\) ed il picco delle possibilità umane \(estrema resistenza, massima destrezza, intelligenza elevata o volontà incrollabile\). Se una *Caratteristica* ha punteggio 0, sarà considerata nella media della popolazione.
 
 Al 1°, al 3°, 5°, 7° e 9° [*Livello*](livelli.md) del *Personaggio*, il *Giocatore* avrà a disposizione un *Incremento*, che può utilizzare per aumentare di 1 il punteggio di una qualunque *Caratteristica*. È possibile aumentare una *Caratteristica* equipaggiando oggetti magici che forniscono un bonus a quella *Caratteristica*.
-

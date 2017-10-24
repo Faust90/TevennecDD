@@ -13,4 +13,3 @@ Il Personaggio è nato e cresciuto a Muddow, e si è trasferito a Ulfsgard per c
 Il viaggio è fin da subito difficile, e durante il tragitto lui e i suoi compagni vengono attaccati da una misteriosa creatura. Sopravvissuto da solo all’attacco, deciderà comunque di arrivare al villaggio, inconsapevole degli orrori che lo attendono.
 
 Svolgendo le missioni del gioco, il Personaggio inizierà a capire la vera natura dell’orrore, e scivolerà sempre più nella follia, fino al tragico finale, che lo vorrà imprigionato nella dimensione di Horla a combattere fino allo strenuo delle sue forze le creature delle tenebre.
-
