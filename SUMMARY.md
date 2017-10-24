@@ -30,3 +30,6 @@
   * [Ruolo](mostri\ruolo.md)
   * [Talenti](mostri\talenti.md)
   * [Incantesimi](mostri\incantesimi.md)
+    * [1° livello](mostri\incantesimi\liv-1.md)
+    * [2° livello](mostri\incantesimi\liv-2.md)
+    * [3° livello](mostri\incantesimi\liv-3.md)
