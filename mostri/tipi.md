@@ -2,7 +2,7 @@
 ---
 I *Mostri* si dividono in quattro *Tipi*, che vanno a determinare le [*Resistenze*](..\combattimento\attacco.md), le [*Immunità*](..\combattimento\attacco.md) e le [*Vulnerabilità*](..\combattimento\attacco.md):
 
-* **Nativi:** Spesso il risultato di mutazioni, infezioni o maledizioni su creature comuni generano abomini che attaccano ferocemente le creature terrestri. Essendo di solito generate da animali o normali esseri umani, non hanno nessun particolare punto debole o forte, e sono generalmente la categoria di *Mostri* più debole: per questo non possono avere *Livello* superiore a 7.
+* **Nativi:** Spesso il risultato di mutazioni, infezioni o maledizioni su creature comuni generano abomini estremamente aggressivi e innaturalmente feroci. Essendo di solito generate da animali o normali esseri umani, non hanno nessun particolare punto debole o forte, e sono generalmente la categoria di *Mostri* più debole: per questo non possono avere *Livello* superiore a 7.
 
 * **Non morti Minori:** Che siano scheletri o cadaveri rianimati dalle forze oscure di Horla, i *Non morti Minori* sono i soldati più sacrificabili delle armate delle tenebre. Sono estremamente ostili verso tutte le forme di vita. La loro natura priva di vita vera e propria gli dà [*Vulnerabilità*](..\combattimento\attacco.md) ai *Danni* da [*Luce*](..\combattimento\attacco.md) e [*Immunità*](..\combattimento\attacco.md) ai *Danni* da [*Tenebra*](..\combattimento\attacco.md) e alle [*Condizioni*](..\condizioni.md). Non possono avere [*Livello*](..\mostri.md) superiore a 5.
 
