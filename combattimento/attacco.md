@@ -14,7 +14,11 @@ Se il *Colpo* ha avuto successo, vengono inflitti i *Danni*, che vengono calcola
 	
 **Risultato Dado Arma + [_ROB_](..\personaggio\caratteristiche.md) / 2**
 
-I *Colpi* inflitti possono essere mirati a particolari punti deboli dei nemici: questi *Colpi* vengono definiti *Colpi critici*. Se il risultato del *Tiro per Colpire* del *Colpo* più il bonus di [*MEN*](..\personaggio\caratteristiche.md) è maggiore od uguale a 20, si utilizza il risultato migliore per il *Dado Arma*. Le *Armi* magiche aggiungono dei danni extra con alcuni potenziamenti. Il danno inflitto può essere di diversi tipi:
+I *Colpi* inflitti hanno una probabilità di infierire su particolari punti deboli dei nemici: questi *Colpi* vengono definiti *Colpi critici*. In quel caso si utilizza il risultato migliore per il *Dado Arma* per calcolare di *Danni* inflitti. Un *Colpo Critico* è tale se rispetta la seguente formula.
+
+**Risultato Tiro del Colpo + ( [*MEN*](..\personaggio\caratteristiche.md) / 2 ) > 20**
+
+Le *Armi* magiche aggiungono dei danni extra con alcuni potenziamenti. Il danno inflitto può essere di diversi tipi:
 
 *	**_Fisici_**: inflitti dalle armi non magiche e dai [*Mostri*](..\mostri.md)
 *	**_Sovrannaturali_**: inflitti dalle armi magiche e da alcuni [*Mostri*](..\mostri.md)
