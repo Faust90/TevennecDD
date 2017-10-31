@@ -8,21 +8,21 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Il punteggio di [*VOL*](caratteristiche.md) del *Personaggio *è permanentemente aumentato di 1 punto.
+    * Il punteggio di [*VOL*](caratteristiche.md) del *Personaggio* è permanentemente aumentato di 1 punto.
 
-    * Il *Personaggio* conosce i [*Miracoli*](..\magia.md) [*Lux*](..\magia\miracoli\liv-I.md), [*Medico*](..\magia\miracoli\liv-I.md) e [*Sagitta*](..\magia\miracoli\liv-I.md).
+    * Le [*Difficoltà*](..\magia.md) dei [*Miracoli*](..\magia\miracoli.md) sono aumentate di 1.
 
 * **Commerciante:** La propria abilità da commerciante è fuori dal comune e si conoscono circuiti di commercio non convenzionale.
 
   * **Benefici:**
 
-    * Il *Personaggio* ottiene una percentuale pari a  **5 + ( [*MEN*](caratteristiche.md) \* 2 )**. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli [*Oggetti*](oggetti.md) venduti.
+    * Il *Personaggio* ottiene una percentuale pari a  **5 + ( [*MEN*](caratteristiche.md) \* 2 )**. La percentuale si applica come sconto a tutti gli oggetti acquistati nei negozi e come sovraprezzo sugli [*Oggetti*](..\oggetti.md) venduti.
 
     * Il *Personaggio* ha accesso al Mercato nero.
 
   * **Difetti:**
 
-    * Il *Personaggio* è meno avvezzo ai pericoli al di fuori della quiete cittadina, per questo ha un malus di -1 a tutti i [*Tiri Salvezza*](combattimento\tiri-salvezza.md).
+    * Il *Personaggio* è meno avvezzo ai pericoli al di fuori della quiete cittadina, per questo ha un malus di -1 a tutti i [*Tiri Salvezza*](..\combattimento\tiri-salvezza.md).
 
 * **Corrotto:** In qualche modo la tenebra ha influenzato il corpo del *Personaggio*, rendendolo quasi assuefatto. Forse per via di qualche scellerato patto di un suo antenato, forse per qualche inquietante rapporto con gli Immondi.
 
@@ -30,18 +30,18 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
     * Il *Personaggio* ha *Resistenza* ai [*Danni*](..\combattimento\attacco.md) da *Tenebra*
 
-    * Il *Personaggio* ha un bonus pari a +3 a tutti i [*Tiri Salvezza*](combattimento\tiri-salvezza.md).
+    * Il *Personaggio* ha un bonus pari a +3 a tutti i [*Tiri Salvezza*](..\combattimento\tiri-salvezza.md).
 
   * **Difetti:**
 
-    * Il *Personaggio* è refrattario all’energia divina: quando lancia un [*Miracolo*](..\magia.md) subisce un [*Danno*](..\combattimento\attacco.md) pari al doppio del livello dell’*Incantesimo* lanciato.
+    * Il *Personaggio* è refrattario all’energia divina: quando lancia un [*Miracolo*](..\magia\miracoli.md) subisce un [*Danno*](..\combattimento\attacco.md) pari al livello dell’*Incantesimo* lanciato.
     * Il *Personaggio* ha un’aria inquietante: si acquistano gli [*Oggetti*](..\oggetti.md) ad un prezzo del 20% superiore al normale e si vendono ad un prezzo del 20% inferiore.
 
 * **Duellante \(Guerriero\):** Si è addestrati a combattere con destrezza inusuale.
 
   * **Benefici:**
 
-    * Il *Personaggio* può effettuare [*Blocchi*](..\combattimento\difesa.md) senza usare *Scudi*. Il *Blocco* è pari a  **5 + ( [*AGI*] (caratteristiche.md) \* 2 )**
+    * Il *Personaggio* può effettuare [*Blocchi*](..\combattimento\blocco.md) senza usare *Scudi*. Il *Blocco* è pari a  **5 + ( [*AGI*] (caratteristiche.md) \* 2 )**
     * Il *Personaggio* ha un bonus di +2 a tutti i danni inflitti utilizzando armi. 
 
   * **Difetti:**
@@ -53,7 +53,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
   * **Benefici:**
 
-    * Tutti i [*Danni*](..\..\combattimento\attacco.md) di *Luce* inflitti dal *Personaggio* vengono tirati due volte e vengono presi i risultati migliori.
+    * Tutti i [*Danni*](..\combattimento\attacco.md) di *Luce* inflitti dal *Personaggio* vengono tirati due volte e vengono presi i risultati migliori.
 
     * Il punteggio di [*VOL*](caratteristiche.md) del *Personaggio* è permanentemente aumentato di 1 punto.
 
@@ -67,7 +67,7 @@ I *Talenti* sono una serie di abilità che espandono il potenziale del *Personag
 
     * Il punteggio di [*AGI*](caratteristiche.md) del *Personaggio* è permanentemente aumentato di 1 punto.
 
-    * Il *Personaggio* inizia la partita con una [*Spada Corta*](..\oggetti.md) e un’[*Armatura di Cuoio*](..\oggetti.md).
+    * Il *Personaggio* ha un bonus di +1 a [*MEN*](caratteristiche.md) al fine di determinare se un *Colpo* è da considerare *Colpo Critico*
 
 * **Ospitaliere:** Si ha un addestramento volto a curare sul campo le proprie ferite. 
 

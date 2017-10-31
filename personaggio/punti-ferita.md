@@ -8,4 +8,4 @@ I *Punti Ferita* al 1° [*Livello*](livelli.md) si calcolano con la seguente for
 
 **8 + ([*ROB*](caratteristiche.md) * 2)**
 
-Si ottengono **1d4** *Punti Ferita* aggiuntivi ogni volta che si aumenta di [*Livello*](livelli.md). Equipaggiare alcuni [*Oggetti*](..\oggetti.md)magici aumenta il numero di punti ferita.
+Si ottengono **1d4** *Punti Ferita* aggiuntivi ogni volta che si aumenta di [*Livello*](livelli.md). Equipaggiare alcuni [*Oggetti*](..\oggetti.md) magici aumenta il numero di *Punti Ferita*.

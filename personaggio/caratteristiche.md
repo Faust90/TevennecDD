@@ -30,7 +30,7 @@ Le *Caratteristiche* servono a indicare la prestanza fisica e mentale del *Perso
 
   * La metà del suo valore arrotondata per difetto determina il livello massimo di [*Incantesimi*](..\magia.md) che si può imparare
 
-  * Il suo valore migliora la velocità di lancio degli [*Incantesimi*](..\magia.md).
+  * Il suo valore riduce il [*Tempo di Lancio*](..\magia\miracoli.md) dei *Miracoli*.
 
   * Il suo valore migliora la possibilità di effettuare un [*Colpo Critico*](..\combattimento\attacco.md)
 
