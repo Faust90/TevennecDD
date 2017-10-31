@@ -3,7 +3,7 @@
 I *Mostri* hanno due Ruoli. Sono simili concettualmente a quelli del [*Personaggio*](..\personaggio.md), e servono per definire le loro capacità. 
 
 #### Bruto:  
-I *Mostri* con questo *Ruolo* hanno una maggior resistenza e potenza fisica. Sono generalmente molto agili o hanno una spessa corazza. Aggiungono un quarto del loro livello ad [ATK](..\combattimento\attacco.md) , un terzo del loro livello a [*DEF*](..\combattimento\difesa.md) e un quinto del loro livello ai [*Tiri Salvezza*](..\combattimento\difesa.md), tutti i valori arrotondati per difetto. Se hanno un *Livello* superiore al 3°, i *Colpi* delle loro *Armi* possono avere una delle seguenti capacità: [*Stordimento*](..\oggetti\equipaggiabili.md), [*Mutilare*](..\oggetti\equipaggiabili.md), [*Impalare*](..\oggetti\equipaggiabili.md).
+I *Mostri* con questo *Ruolo* hanno una maggior resistenza e potenza fisica. Sono generalmente molto agili o hanno una spessa corazza. Aggiungono un quarto del loro livello arrotondato per difetto ad [ATK](..\combattimento\attacco.md) , a [*DEF*](..\combattimento\difesa.md) e ai [*Tiri Salvezza*](..\combattimento\difesa.md). Se hanno un *Livello* superiore al 3°, i *Colpi* delle loro *Armi* possono avere una delle seguenti capacità: [*Stordimento*](..\oggetti\equipaggiabili.md), [*Mutilare*](..\oggetti\equipaggiabili.md), [*Impalare*](..\oggetti\equipaggiabili.md).
 
 #### Stregone:  
 I *Mostri* con questo *Ruolo* sono eccellenti utilizzatori di arti magiche oscure, e maestri nell’incanalare l’energia della Tenebra. Conoscono un [*Incantesimo*](incantesimi.md) bonus ogni due *Livelli*. Hanno anche uno [*Slot Energia*](..\magia.md)  extra e il tempo di lancio dei loro *Incantesimi* di 1° livello è di 0.6 sec.
