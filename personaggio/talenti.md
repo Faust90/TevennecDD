@@ -65,7 +65,6 @@ Si ha un addestramento volto a curare sul campo le proprie ferite.
 La propria fede in Dio è fanatica. 
 
   * Il *Personaggio* ottiene uno [*Slot Energia*](..\magia.md) extra e si aumenta di 1 il livello degli *Incantesimi* che può imparare.  
-
   * Non si possono usare [*Anelli*](..\oggetti.md). Un voto di povertà per dimostrare la propria fede è fondamentale per distinguersi dai comuni discepoli
 
 #### Templare \(Incantatore\): 
